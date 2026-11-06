@@ -84,7 +84,7 @@ def render_block(b):
         return fig(dg.drums(g.strip()), cap.strip() or "A typical one-bar pattern. Real tracks vary.", "dg drums")
     if k == "pic":
         name, _, cap = b["t"].partition("|")
-        return f'<figure class="photo"><img src="{PICS[name.strip()]}" alt="{html.escape(cap.strip())}" loading="lazy"><figcaption>{inline(cap.strip())}</figcaption></figure>'
+        return f'<figure class="photo"><img src="{PICS[name.strip()]}" data-pic="{name.strip()}" alt="{html.escape(cap.strip())}" loading="lazy"><figcaption>{inline(cap.strip())}</figcaption></figure>'
     if k == "tip":
         return f'<aside class="note tip"><span class="nlab">Tutor tip</span><p>{inline(b["t"])}</p></aside>'
     if k == "warn":

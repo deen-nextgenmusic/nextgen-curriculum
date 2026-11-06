@@ -1,5 +1,5 @@
-// NextGen DJ Curriculum offline support. Build 2e5bc9a86b
-const CACHE = 'ngdj-2e5bc9a86b';
+// NextGen DJ Curriculum offline support. Build 8d46e3a4eb
+const CACHE = 'ngdj-8d46e3a4eb';
 const CORE = ['./', 'index.html', 'manifest.webmanifest', 'icon-192.png', 'icon-512.png', 'apple-touch-icon.png',
 'fonts/alata-latin-400-normal.woff2', 'fonts/jetbrains-mono-latin-400-normal.woff2', 'fonts/jetbrains-mono-latin-500-normal.woff2', 'fonts/poppins-latin-400-italic.woff2', 'fonts/poppins-latin-400-normal.woff2', 'fonts/poppins-latin-500-normal.woff2', 'fonts/poppins-latin-600-normal.woff2'];
 self.addEventListener('install', e => {
