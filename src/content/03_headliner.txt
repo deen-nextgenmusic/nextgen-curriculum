@@ -1,0 +1,609 @@
+@title: Headliner
+@navtitle: Headliner
+@short: Headliner
+@title_html: The <em>Headliner</em>
+@pic: crowd
+@lead: Confident DJs develop their own style: effects with control, acapellas, big jumps in tempo, scratch and hot cue routines, and sets that tell a story. They finish by performing to a real audience.
+@check: A 15-20 minute set with a planned journey, including at least one major tempo or genre change and one creative technique (stems, acapella, routine or scratching). Effects must be used with control. Where possible, it's performed at a showcase or to the class. Afterwards the student explains one choice they're proud of and one thing they'd change.
+
+== Knowledge
+
+## HL-K01 | The machines behind the music
+> A handful of drum machines, synthesisers and samplers shaped almost every genre in this handbook. Headliners should know them by sound and by name.
+cards:
+- synth | Minimoog (1970) | A portable, reliable synth that put synthesisers on stage. Warm, powerful bass and leads, one note at a time.
+- drummachine | Roland TR-808 (1980) | Flopped at first, then defined electro, hip hop and trap. Its booming kick is everywhere today.
+- drummachine | Roland TR-909 (1983) | Punchy kicks and crisp claps. The sound of early house and techno.
+- keys | Yamaha DX7 (1983) | One of the first hit digital synths. Bright, glassy tones that defined 1980s pop.
+- sampler | E-mu SP-1200 (1987) | A gritty 12-bit drum machine and sampler at the heart of golden-era hip hop.
+- sampler | Akai MPC (1988 on) | Pads for chopping and playing samples. Still the image of the hip hop producer.
+- laptop | Software (1990s on) | Ableton Live, FL Studio and Logic put the whole studio on a laptop.
+h: Hear them in the music
+- The 808 kick and cowbell on Afrika Bambaataa & the Soulsonic Force's "Planet Rock" and Marvin Gaye's "Sexual Healing".
+- The 808 bass that drives almost every trap and drill track.
+- The 909 hats and claps under classic Chicago house and Detroit techno.
+game: Name That Machine | Play short examples of an 808 kick, a 909 clap and a sampled break. The student names the source.
+check:
+- Name the main classic machines and the genres they shaped.
+- Recognise an 808 kick and a 909 clap by ear.
+
+## HL-K02 | Pulse: anything in the track
+> Headliners can lock onto any part of a track, not just the kick, and answer questions about its structure without looking.
+Students should clap along to:
+- The kick in a grime or drum and bass track, where it doesn't fall on every beat.
+- The hi-hats or snare in a house track.
+- The rhythm of a bassline or melody.
+And answer questions such as:
+- On which beats does the crash cymbal play?
+- In which bar does the cowbell first appear?
+- How many bars long is the repeating kick pattern?
+check:
+- Clap along to any rhythmic part of a track.
+- Answer structure questions by ear, without the waveform.
+
+## HL-K03 | Signal flow: effects
+> Where an effect sits in the signal path decides what the channel fader does to it. That's the difference between an echo that stops dead and one that rings out.
+dg: signal3 | Colour FX sit before the fader, beat FX after it. An external unit connects through send and return.
+- **Pre-fader effects** (filter and colour FX) come before the channel fader. Close the fader and the effect disappears with the music.
+- **Post-fader effects** (most beat FX: echo, delay, reverb) come after it. Close the fader and the effect's tail keeps ringing out. That's why an echo can carry on after a track has gone.
+- **Send and return** route the sound out to an external effects unit and back into the mixer.
+check:
+- Explain pre-fader and post-fader effects.
+- Use a post-fader echo to leave a tail after cutting a track.
+
+## HL-K04 | Equipment functions: crossfader and FX
+> Headliners set the mixer up for what they're about to do, from scratching to effects-heavy mixing.
+h: Crossfader settings
+- **Assign:** each channel can be set to the crossfader's left side, right side, or **through** (it ignores the crossfader).
+- **Curve:** smooth for blending, sharp for scratching (see MR-K05).
+h: FX controls
+table:
+| Control | What it does |
+| FX select | Chooses the effect |
+| Channel select | Chooses which channel, or the master, gets the effect |
+| Beat value | Sets the effect's timing, such as 1/2, 1 or 2 beats |
+| Level/depth (dry/wet) | How much effect is mixed in. Fully dry is no effect, fully wet is only effect |
+| On/off | Switches the effect in and out |
+check:
+- Set the crossfader assign and curve for a scratch routine.
+- Choose, time and apply an effect to the right channel.
+
+## HL-K05 | Levels: when tracks don't match
+> Not all tracks are equally loud, and not all equipment sends the same level. Headliners balance a set by ear, not just by the meters.
+- **Older tracks** were often mastered quieter than modern ones, so a 1990s classic can sound weak after a 2025 track.
+- **File quality:** a low-quality MP3 has less impact than a WAV, even at the same meter level.
+- **Different sources:** a turntable, a media player and a drum machine all send different levels into the mixer.
+- **Different genres:** a bass-heavy track can read lower on the meter but feel louder.
+tip: When switching between very different tracks, compare them in the headphones before the blend and match how loud they feel, not just the meters.
+check:
+- Balance tracks of different eras and genres so the set sounds even.
+
+## HL-K06 | Genres at Headliner
+> Headliner genres are faster, more complex and harder to mix. Several were born in the UK.
+table:
+| Genre | Typical BPM | Where and when | Mixing it |
+| UK garage and bassline | 130-140 | London, mid-1990s; Sheffield, 2000s | Swing hides drift. Swap the bass hard |
+| Drum and bass and jungle | 160-176 | UK, early 1990s | 16- and 32-bar phrases, double drops |
+| Dubstep | 138-142 (half-time) | South London, early 2000s | Cut into drops, change in breakdowns |
+| Breakbeat | 125-135 | UK, late 1980s and 1990s | Align on kick and snare, not every beat |
+| Trance | 130-140 | Germany, early 1990s | Long breakdowns, key really matters |
+| Afro house | 118-124 | South Africa, 2000s on | Blend percussion layers, mind the key |
+| Jersey club | 130-145 | Newark, New Jersey, 2000s | Short, punchy cuts |
+
+## HL-K07 | Trance
+> Trance is built for euphoria: long breakdowns, huge melodies and a build that seems to go on forever.
+facts:
+- Tempo = 130-140 BPM
+- Born = Germany and Goa, early 1990s
+- Rhythm = Four to the floor, rolling offbeat bass
+- Sound = Uplifting chords, big melodies, long breakdowns
+roots: Techno, Acid house, Synth-pop, Goa psychedelic parties > Trance > Progressive, Uplifting, Psytrance, Hard trance, EDM
+drums: trance | A rolling offbeat bassline under a four-to-the-floor kick.
+h: Brief history
+Trance grew from techno and acid house in Frankfurt in the early 1990s, where DJs such as Sven Väth and labels such as Eye Q built a hypnotic, melodic sound. At the same time, all-night beach parties in Goa, India, created psychedelic **Goa trance**, which later became psytrance.
+By the late 1990s trance was the biggest club sound in Europe. In the UK, superclubs such as Gatecrasher in Sheffield and Cream in Liverpool packed out every weekend, and tracks such as Robert Miles' "Children", ATB's "9 PM (Till I Come)" and Darude's "Sandstorm" filled the charts. Dutch DJs Tiësto and Armin van Buuren became global stars. Tiësto played at the opening ceremony of the 2004 Athens Olympics, and Armin's radio show *A State of Trance* has run weekly since 2001. Trance's big breakdowns and builds later shaped EDM.
+timeline:
+- 1990 = Age of Love's "The Age of Love"
+- 1993 = Frankfurt and Goa scenes take off
+- 1999 = Trance rules the UK charts and superclubs
+- 2001 = *A State of Trance* begins
+- 2004 = Tiësto plays the Athens Olympics
+h: What to listen for
+- A four-to-the-floor kick at 130-140 BPM with a rolling offbeat bassline.
+- Long breakdowns where the drums drop out completely.
+- Huge build-ups with snare rolls and rising synths.
+- Big arpeggios and wide, layered "supersaw" chords.
+- Emotional, euphoric melodies, often in minor keys but uplifting.
+h: Artists who shaped it
+people:
+- Sven Väth = Frankfurt DJ and label boss at the start of it all
+- Paul van Dyk = Berlin DJ behind "For an Angel"
+- Sasha and John Digweed = UK DJs who shaped progressive trance
+- Ferry Corsten = Dutch producer behind huge late-1990s hits
+- Tiësto = The first trance DJ to become a global superstar
+- Armin van Buuren = Host of *A State of Trance*
+h: Key artists now
+people:
+- Armin van Buuren = Still one of the biggest names in trance
+- Above & Beyond = UK trio known for emotional, singalong sets
+- Tiësto = Moved into EDM and pop, still headlining festivals
+listen:
+- Age of Love - The Age of Love (1990)
+- Energy 52 - Café del Mar (1993)
+- Paul van Dyk - For an Angel (1994)
+- Robert Miles - Children (1995)
+- ATB - 9 PM (Till I Come) (1998)
+- Darude - Sandstorm (1999)
+- Chicane - Saltwater (1999)
+tip: Trance breakdowns can last a minute or more. Mix in the intro or the outro, never across a breakdown, and always mix in compatible keys: the melodies are the whole point.
+check:
+- Recognise trance and explain where it came from.
+- Name two trance pioneers.
+- Blend two trance tracks in compatible keys.
+
+## HL-K08 | Drum and bass and jungle
+> Drum and bass is Britain's fastest dance music: chopped breakbeats at 170 BPM over deep sub bass.
+facts:
+- Tempo = 160-176 BPM
+- Born = London and the UK, early 1990s
+- Rhythm = Fast, broken breakbeats
+- Sound = Heavy sub bass, chopped breaks
+roots: Breakbeat hardcore, Reggae and dancehall, Hip hop breaks, Techno > Jungle > Drum and bass > Liquid, Neurofunk, Jump up, Dubstep
+drums: dnb | The classic two-step: kick on 1, snare on 2 and 4, a second kick just after beat 3.
+h: Brief history
+Jungle came out of the UK rave scene in the early 1990s. Producers sped up sampled drum breaks, especially the "Amen break" from the Winstons' 1969 B-side "Amen, Brother", and added reggae and dancehall bass, vocals and MCs. Pirate radio spread it across London, and club nights such as Fabio and Grooverider's Rage at Heaven became its home.
+As the sound grew cleaner and more technical, it became drum and bass. Goldie's "Inner City Life" and Roni Size and Reprazent's Mercury Prize win in 1997 took it to new audiences. LTJ Bukem's Good Looking label created the smooth, atmospheric style later called **liquid**, while labels such as Metalheadz, Ram Records and Hospital Records built the scene. In the 2020s drum and bass and jungle are back in the charts and at festivals, led by a new generation such as Nia Archives.
+timeline:
+- 1969 = The Amen break is recorded
+- 1993 = Jungle takes over pirate radio
+- 1994 = Goldie's "Inner City Life"
+- 1997 = Roni Size and Reprazent win the Mercury Prize
+- 2020s = A new chart boom and jungle revival
+h: What to listen for
+- A fast tempo of 160-176 BPM.
+- Chopped breakbeats such as the Amen break, or a tight "two-step" beat.
+- Deep sub bass you feel more than hear, plus heavy mid-range bass in some styles.
+- In jungle: reggae basslines, dancehall vocals and MCs.
+- Long 16- and 32-bar phrases that build towards big drops.
+h: Artists who shaped it
+people:
+- Goldie = Metalheadz founder, "Inner City Life"
+- Fabio and Grooverider = Rage DJs and Radio 1 pioneers
+- LTJ Bukem = Created the smooth, liquid sound
+- Roni Size = Mercury Prize winner with Reprazent
+- Andy C = Ram Records boss, famous for fast mixing and double drops
+- Shy FX = "Original Nuttah", a jungle classic
+h: Key artists now
+people:
+- Chase & Status = Duo behind "Baddadan" and BRIT Producers of the Year
+- Nia Archives = Leader of the jungle revival
+- Sub Focus = Festival headliner and producer
+- Hedex = One of the most-booked DJs in jump up
+listen:
+- Origin Unknown - Valley of the Shadows (1993)
+- Goldie - Inner City Life (1994)
+- Shy FX & UK Apachi - Original Nuttah (1994)
+- LTJ Bukem - Horizons (1995)
+- Roni Size & Reprazent - Brown Paper Bag (1997)
+- Nia Archives - Baianá (2022)
+- Chase & Status - Baddadan (2023)
+h: Mixing drum and bass
+- Count in 16 and 32 bars. Intros are long, so blends can be too.
+- **Double drops:** line up two tracks so both drops hit at the same moment. It's the genre's signature move, and needs perfect phrasing.
+- Rewinds are part of the culture, as in grime.
+check:
+- Explain the roots of jungle and drum and bass.
+- Name two pioneers and two current artists.
+- Perform a double drop.
+
+## HL-K09 | Dubstep
+> Dubstep slowed the feel down to half time and turned the bass up. It began in South London and went global.
+facts:
+- Tempo = 138-142 BPM, felt at half speed
+- Born = Croydon and South London, early 2000s
+- Rhythm = Half-time, snare on beat 3
+- Sound = Deep sub bass, space, wobble
+roots: UK garage and 2-step, Dub and reggae, Jungle, Grime > Dubstep > Brostep, Riddim, Future garage
+drums: dubstep | The snare on beat 3 makes 140 BPM feel like 70.
+h: Brief history
+Dubstep grew from the darker side of UK garage and from dub reggae around Croydon in the early 2000s. The Big Apple Records shop was a meeting point, and producers such as Skream, Benga and Digital Mystikz (Mala and Coki) built the sound. The club night FWD>> in London and the DMZ nights in Brixton were its home, and pirate radio station Rinse FM spread it.
+In 2006, Mary Anne Hobbs' "Dubstep Warz" show on BBC Radio 1 introduced it to a national audience. Burial's moody albums showed how emotional it could be, and Magnetic Man took it into the top 10. In the 2010s a louder, more aggressive US style led by Skrillex filled arenas.
+timeline:
+- 2001 = FWD>> club night starts in London
+- 2005 = Skream's "Midnight Request Line"
+- 2006 = "Dubstep Warz" on BBC Radio 1
+- 2010 = Magnetic Man and Skrillex break through
+- 2010s = US "brostep" fills arenas
+h: What to listen for
+- A tempo of about 140 BPM with a half-time feel: the snare lands on beat 3.
+- Deep, rumbling sub bass, often with a "wobble" that pulses in time.
+- Lots of space and dub-style echoes in the original UK sound.
+- Dark, heavy atmospheres.
+- In US-style dubstep: aggressive, growling mid-range bass and big drops.
+h: Artists who shaped it
+people:
+- Skream = "Midnight Request Line", the track that broke it
+- Benga = Croydon teenager who helped create the sound
+- Digital Mystikz = Mala and Coki, founders of DMZ
+- Kode9 = Hyperdub label boss
+- Burial = Showed its emotional, atmospheric side
+- Mary Anne Hobbs = Radio 1 DJ who gave it a national stage
+h: Key artists now
+people:
+- Skrillex = Grammy winner who took it global
+- Excision = One of the biggest names in heavy bass
+- Subtronics = Leading the riddim sound
+listen:
+- Skream - Midnight Request Line (2005)
+- Digital Mystikz - Anti War Dub (2006)
+- Benga & Coki - Night (2007)
+- Burial - Archangel (2007)
+- Magnetic Man - I Need Air (2010)
+- Skrillex - Scary Monsters and Nice Sprites (2010)
+- Flux Pavilion - Bass Cannon (2011)
+tip: Dubstep is at the same BPM as grime and drill, so it mixes with both. Use the breakdown to change tracks, then drop the next one on the one.
+check:
+- Explain half-time and where dubstep came from.
+- Name two pioneers of the UK sound.
+- Mix dubstep with grime or drill at the same tempo.
+
+## HL-K10 | Breakbeat
+> Breakbeat uses broken, syncopated drum patterns instead of a steady kick on every beat. It links hip hop, rave, big beat and drum and bass.
+facts:
+- Tempo = 125-135 BPM
+- Born = Hip hop breaks, then UK rave
+- Rhythm = Broken and syncopated
+- Sound = Chopped drums, effects, big bass
+roots: Funk drum breaks, Hip hop, Acid house, Electro > Breakbeat > Big beat, Nu skool breaks, Jungle, Breaks-influenced UK bass
+drums: breaks | The kick moves around the bar. The snare stays on 2 and 4.
+h: Brief history
+Breakbeat comes from the same drum breaks hip hop DJs looped in the 1970s, especially funk records by James Brown and his drummers, such as Clyde Stubblefield on "Funky Drummer". In the UK rave scene of the late 1980s and early 1990s, producers sped those breaks up, chopped them and layered them under acid and rave synths. That "breakbeat hardcore" sound led to jungle.
+In the late 1990s, **big beat** acts such as the Chemical Brothers, Fatboy Slim and the Prodigy took breakbeat into the charts and onto festival main stages. In the 2000s, **nu skool breaks** artists such as Stanton Warriors and Plump DJs kept it going in clubs. Breaks are back everywhere today, in UK garage, jungle revival and the work of acts such as Overmono and Bicep.
+h: What to listen for
+- Broken, syncopated drum patterns rather than a kick on every beat.
+- Chopped classic breaks such as the Amen, "Funky Drummer" and "Think".
+- A snare on beats 2 and 4 holding everything together.
+- Big basslines, filters and effects.
+- In big beat: rock energy, samples and huge drops.
+h: Artists who shaped it
+people:
+- Clyde Stubblefield = James Brown's drummer, one of the most sampled beats ever
+- The Prodigy = Took rave breakbeat to the top of the charts
+- The Chemical Brothers = Big beat pioneers from Manchester
+- Fatboy Slim = Brighton DJ who defined big beat
+- Stanton Warriors = Kept breaks alive in 2000s clubs
+h: Key artists now
+people:
+- Overmono = Welsh brothers mixing breaks and UK bass
+- Bicep = Belfast duo whose tracks use breaks and rave sounds
+- Stanton Warriors = Still touring and releasing breaks
+listen:
+- The Winstons - Amen, Brother (1969)
+- James Brown - Funky Drummer (1970)
+- The Prodigy - Out of Space (1992)
+- The Chemical Brothers - Block Rockin' Beats (1997)
+- Fatboy Slim - Right Here, Right Now (1999)
+- Bicep - Glue (2017)
+tip: Because the kick isn't on every beat, beatmatch on the snare on 2 and 4. It's the steadiest part of the pattern.
+check:
+- Recognise a broken beat.
+- Name a big beat act and a breakbeat artist from today.
+- Beatmatch two breakbeat tracks using the snare.
+
+## HL-K11 | UK garage, 2-step and bassline
+> UK garage took American house, sped it up and gave it a skipping, swung groove. It sound-tracked London at the turn of the century and is back today.
+facts:
+- Tempo = 130-140 BPM
+- Born = London, mid-1990s
+- Rhythm = Swung, skipping 2-step drums
+- Sound = Chopped vocals, rolling bass
+roots: US garage and house, Jungle, R&B and soul vocals, Dancehall > UK garage > 2-step, Speed garage, Grime, Dubstep, Bassline
+drums: garage | 2-step drops the kicks on 2 and 4 for a skipping, swung feel.
+h: Brief history
+Garage started with soulful US house from New York and New Jersey (the name comes from the Paradise Garage club). American producer Todd Edwards' chopped vocal style was especially influential. London DJs played it faster at Sunday after-parties with MCs, and a UK sound emerged.
+**Speed garage** added heavy bass. **2-step** removed kicks for a skipping groove: MJ Cole's "Sincere" and Artful Dodger and Craig David's "Re-Rewind". Pirate radio and clubs such as Twice as Nice made it huge, and So Solid Crew's "21 Seconds" reached number one in 2001. Its darker side led to grime and dubstep.
+In the mid-2000s, **bassline** grew from the same roots in Sheffield and the north of England, with wobbling basslines and a bouncier swing. Today a new generation has revived UK garage, and Interplanetary Criminal and Eliza Rose's "B.O.T.A." reached number one in 2022.
+timeline:
+- Mid-1990s = London DJs speed up US garage
+- 1999 = "Re-Rewind" makes 2-step a pop hit
+- 2001 = So Solid Crew's "21 Seconds" reaches number one
+- 2007 = Bassline's "Heartbroken" hits the top 3
+- 2022 = "B.O.T.A." brings UK garage back to number one
+h: What to listen for
+- A tempo of 130-140 BPM with a strong swing.
+- 2-step drums: kicks missing from beats 2 and 4, so the beat skips.
+- Chopped, pitched-up vocal samples.
+- Rolling or wobbling basslines.
+- Smooth R&B vocals, often with an MC.
+h: Artists who shaped it
+people:
+- Todd Edwards = US producer whose vocal chops inspired UK garage
+- MJ Cole = Classically trained producer behind "Sincere"
+- Artful Dodger = 2-step hitmakers with Craig David
+- DJ EZ = UK garage's most famous DJ
+- So Solid Crew = South London crew who took it to number one
+- T2 = Took bassline into the charts with "Heartbroken"
+h: Key artists now
+people:
+- Sammy Virji = Leading the new wave of UK garage
+- Interplanetary Criminal = Producer behind "B.O.T.A."
+- Conducta = Founder of the Kiwi Rekords label
+listen:
+- MJ Cole - Sincere (1998)
+- Artful Dodger ft. Craig David - Re-Rewind (1999)
+- Sweet Female Attitude - Flowers (2000)
+- So Solid Crew - 21 Seconds (2001)
+- T2 ft. Jodie Aysha - Heartbroken (2007)
+- Interplanetary Criminal & Eliza Rose - B.O.T.A. (Baddest of Them All) (2022)
+check:
+- Explain how UK garage, 2-step and bassline relate.
+- Name two pioneers and one current artist.
+- Mix 2-step tracks while keeping the swing in time.
+
+## HL-K12 | Afro house | new
+> Afro house blends deep house with African percussion, chants and melodies. It's one of the fastest-growing sounds in clubs.
+facts:
+- Tempo = 118-124 BPM
+- Born = South Africa, 2000s on
+- Rhythm = Four to the floor, layered percussion
+- Sound = Hypnotic, spiritual, rhythmic
+roots: Deep house, Kwaito, African percussion and chants, Soulful house > Afro house > Afro tech, Melodic Afro house
+h: Brief history
+Afro house grew in South Africa in the 2000s, where deep house had become the country's favourite dance music. Producers added African percussion, chants and melodies, and the local style kwaito, to create a deeper, more spiritual sound.
+Black Coffee became its biggest name. He took the sound from Durban to Ibiza residencies and global festivals, and won a Grammy in 2022. In the 2020s, European acts such as the Berlin collective Keinemusik made Afro-influenced house one of the biggest club sounds in the world.
+h: What to listen for
+- A four-to-the-floor kick at 118-124 BPM.
+- Layers of hand percussion: congas, shakers and talking drums.
+- Chants, call-and-response vocals and African languages.
+- Deep, hypnotic grooves that build slowly.
+- Warm, melodic pads and synths.
+h: Artists who shaped it
+people:
+- Black Coffee = South Africa's biggest DJ, Grammy winner
+- Culoe De Song = Early star of the deep, tribal sound
+- Black Motion = Duo known for live percussion
+- Louie Vega = New York DJ who championed African sounds in house
+h: Key artists now
+people:
+- Keinemusik = Berlin collective behind huge Afro-influenced hits
+- Themba = South African DJ and producer
+- Black Coffee = Still headlining the biggest clubs
+listen:
+- Black Coffee ft. Bucie - Superman (2009)
+- Black Coffee & David Guetta ft. Delilah Montagu - Drive (2021)
+- Adam Port, Stryv & Keinemusik ft. Malachiii - Move (2024)
+tip: Afro house has layers of percussion. Blend percussion into percussion over a long phrase, and use key when melodies or vocals overlap.
+check:
+- Recognise Afro house and name two artists.
+- Blend two Afro house tracks smoothly.
+
+## HL-K13 | Jersey club | new
+> Jersey club is fast and bouncy, built on a distinctive kick pattern and chopped vocal samples. It went viral on social media in the 2020s.
+facts:
+- Tempo = 130-145 BPM
+- Born = Newark, New Jersey, 2000s
+- Rhythm = Rapid, bouncing kick pattern
+- Sound = Chopped samples, playful
+roots: Baltimore club, Hip hop and R&B, Ghetto house > Jersey club > Jersey drill, Philly club
+h: Brief history
+Jersey club grew from Baltimore club music in Newark, New Jersey, in the early 2000s. DJs such as DJ Tameil brought the Baltimore sound to Newark, and local producers built tracks around a quick-fire kick pattern and short vocal chops, often remixing pop and R&B hits.
+Its remixes spread on SoundCloud and later TikTok, where its bouncy rhythm suited dance challenges. By the 2020s it had shaped mainstream songs such as Lil Uzi Vert's "Just Wanna Rock" and NewJeans' "Super Shy", and Jersey drill mixed it with drill.
+h: What to listen for
+- A tempo of 130-145 BPM.
+- The signature kick pattern: a rapid burst of kicks that makes the beat bounce.
+- Chopped vocal samples, often repeated in short bursts.
+- Sound effects such as the famous "bed squeak".
+- Short, high-energy tracks and remixes of songs people know.
+h: Artists who shaped it
+people:
+- DJ Tameil = Brought Baltimore club to Newark
+- DJ Sliink = Producer who took the sound to wider audiences
+- UNiiQU3 = DJ and producer known as the "Queen of Jersey club"
+- Cookiee Kawaii = "Vibe (If I Back It Up)", a viral hit
+h: Key artists now
+people:
+- Bandmanrill = Rapper who helped create Jersey drill
+- UNiiQU3 = Still leading the scene
+listen:
+- Cookiee Kawaii - Vibe (If I Back It Up) (2018)
+- Lil Uzi Vert - Just Wanna Rock (2022)
+- NewJeans - Super Shy (2023)
+tip: Jersey club tracks are short and full of energy. Use quick cuts on the phrase, and try mixing Jersey club remixes of tracks the crowd already knows.
+check:
+- Recognise Jersey club and cut between tracks on the phrase.
+
+## HL-K14 | Transition tracks
+> A transition track changes tempo or genre partway through. It does the hard work of a big tempo jump for you.
+Some tracks start at one tempo and end at another, either with a sudden jump or a gradual ramp. Played at the right moment, they move a set from, say, 140 BPM to 170 BPM without any awkward mixing.
+dg: transitiontrack | Mix in before the tempo change, let the track change on its own, then mix out at the new tempo.
+steps:
+- Learn exactly where and how the tempo changes before you play the track.
+- Mix the transition track in at its starting tempo.
+- Finish mixing out the previous track before the change starts.
+- Let the transition track change on its own. Don't mix over it.
+- Mix the next track in at the new tempo.
+h: Analysing transition tracks
+rekordbox usually analyses only one tempo per track. To capture a tempo change, use the dynamic analysis mode in the analysis settings. It can make normal tracks less accurate, so keep transition tracks in their own playlist and only analyse them that way.
+check:
+- Use a transition track to move between two tempos.
+- Analyse a transition track correctly in rekordbox.
+
+## HL-K15 | Acapellas
+> An acapella is a vocal with no music. Laid over an instrumental, it creates a mash-up only you can play.
+Before using an acapella in a set, prepare it properly:
+- **Tempo:** without drums, software often gets the BPM wrong. Check it against the original track and save the right value.
+- **Key:** sung vocals have a key. Mix them over instrumentals in a compatible key, or they'll sound out of tune.
+- **Level:** vocals on their own can be much quieter or louder than full tracks. Set the trim so the mash-up sounds like one record.
+- **Cue point:** many vocals start just before beat 1 with a pickup note. Set the cue so the phrase lines up, not just the first sound.
+Students can find official acapellas from labels and DJ stores, or create them with stem separation (HL-R02).
+check:
+- Prepare an acapella with the right tempo, key and cue point.
+
+## HL-K16 | Improvisation: routines on the fly
+> Headliners can improvise scratch and juggling routines live, responding to the music and the crowd.
+A good improvised routine balances **repetition** (catchy, simple ideas the crowd can follow) and **variation** (new ideas and more complex techniques). It also rises and falls in **intensity**: start musical and simple, build to a technical climax, then release.
+- **Respond to the music:** drop-cut a spoken word so it adds to the lyrics, or juggle in the same rhythm as the track.
+- **Use simple forms:** patterns such as AABA give a routine shape.
+- **Read the reaction:** repeat what gets a response, and move on from what doesn't.
+- **Keep within your limits:** precision is harder without preparation, especially on stage.
+check:
+- Improvise a short routine with a clear shape.
+- Adapt a routine in response to the crowd.
+
+## HL-K17 | Structuring a mix: vibe and story
+> Headliners build sets with a narrative. The tracks connect technically and through their mood and message.
+h: By vibe
+Even within one genre, sections of a set can feel very different. For example, in a drum and bass set: crowd-pleasing anthems to get people moving, old-school jungle as a nod to the roots, heavy tracks for the peak, then liquid drum and bass to wind down.
+h: By emotion and message
+Group tracks by what they say as well as how they sound. An R&B set might move from singalong ballads to love songs, then party tracks, then a final singalong. The lyrics carry the crowd from one feeling to the next.
+dg: energy story | A set with a story: build, peak, a deliberate dip, then a bigger second peak and a gentle landing.
+tip: Ask students to give their showcase set a title and three chapters. If they can't describe the story, the set doesn't have one yet.
+check:
+- Plan a set structured by vibe or emotion and explain the story.
+
+== Skills
+
+## HL-S01 | Effects
+> Effects add texture and drama. Used with control, they lift a set. Used all the time, they bury the music.
+table:
+| Effect | What it does | Use it to |
+| Echo | Repeats the sound, fading each time | Add a tail to a cut or spinback, fill a quiet moment |
+| Delay | Plays the sound back after a set number of beats | Create movement, lift a build-up, play with rhythm |
+| Reverb | Adds the sound of a big space | Make a breakdown or acapella feel huge, add a tail |
+| Flanger | A sweeping, jet-like swoosh | Enhance a build-up or a pad in a breakdown |
+| Roll | Repeats a tiny slice (like beat repeat) | Build tension before a drop |
+steps:
+- Choose the effect and the channel.
+- Set the beat value to suit the tempo and the moment.
+- Switch it on and bring in the level.
+- Bring the level back down, then switch it off cleanly on the beat.
+h: Examples
+- **Echo out:** switch on echo just before a quick fade, so the outgoing track rings out after it's gone.
+- **Delay into a swap:** trigger a delay on the outgoing track just before the bass swap in a blend.
+- **Reverb tail:** add reverb as you make a straight cut, so the cut feels deliberate rather than abrupt.
+warn: One effect per transition is plenty. If you can't say why an effect is on, switch it off.
+check:
+- Use echo, delay, reverb and flanger with control.
+- Switch effects on and off cleanly in time.
+
+## HL-S02 | Creative looping
+> Headliners use loops to reshape tracks: building their own intros and build-ups on the fly.
+- **Extend a short intro:** loop it to give more time for a long, controlled blend.
+- **Create your own intro:** find a sparse section, such as a riff or vocal in the breakdown, and loop it to use as an intro.
+- **Build your own build-up:** halve the loop length again and again (4, 2, 1, 1/2, 1/4 beats) to build tension, then hit a hot cue to drop the track.
+- **Slip mode:** with slip on, the track carries on underneath, so when the loop ends it's still in time.
+warn: Without quantise, exiting a loop at the wrong moment pushes the track out of time with the other deck.
+check:
+- Create an intro from a section of a track.
+- Build tension with a shrinking loop and drop on the one.
+
+## HL-S03 | Mixing acapellas
+> Mixing an acapella over an instrumental makes a live mash-up. The tempo, key, level and phrase all have to line up.
+dg: acapella | A vocal pickup starts before beat 1, so it must be cued early to land on the phrase.
+steps:
+- Choose an instrumental, or an instrumental section, in a compatible key.
+- Set the acapella to the same tempo as the instrumental.
+- Cue it so its first full phrase lands on beat 1 of a phrase, allowing for any pickup.
+- Start it on the right beat. If the pickup starts on beat 4, press play on beat 4 of the bar before.
+- Balance the levels so it sounds like one record.
+tip: Well-known vocals over unexpected instrumentals get the biggest reaction. If the original placement of a famous vocal is known, keep it.
+check:
+- Mix an acapella over an instrumental, in time, in key and in phrase.
+
+## HL-S04 | Mixing between different tempos
+> Moving between genres at very different tempos is one of the hardest things a DJ does. There are four main ways.
+h: 1. Meet in the middle
+Bring both tracks to a tempo halfway between them. From 140 to 160 BPM, mix at 150, then let the new track drift back to its own speed over the next phrase.
+dg: tempomiddle | Meeting in the middle keeps each track's change small.
+If either track would have to move more than about 6 to 8 percent, it starts to sound wrong. Use another method.
+h: 2. Cut
+A clean cut on the phrase, often with an echo or reverb tail, works across any tempo gap.
+h: 3. Half time and double time
+Some tempos fit together because one is double the other. Drum and bass at 174 BPM sits over hip hop at 87, and dubstep at 140 feels like 70. Beatmatch at the shared pulse.
+h: 4. Use a transition track
+Let a track that changes tempo do the work for you (HL-K14).
+game: Tempo Ladder | Get from about 120 to about 170 BPM in as few clean transitions as possible, using at least two methods.
+check:
+- Mix between tracks with a large tempo gap using at least two methods.
+- Explain when meeting in the middle won't work.
+
+## HL-S05 | Transform scratch
+> In a transform, the hand moves the sound slowly while the fader taps it in and out rapidly, chopping one long sound into a stream of short ones.
+The fader starts closed. As the jog hand moves smoothly forward and back, tap the fader open briefly with the thumb or fingers, again and again. It's like patting your head and rubbing your stomach.
+dg: scratch transform | Slow hand movement, fast fader taps.
+check:
+- Perform a steady transform over a full stroke forward and back.
+
+## HL-S06 | Flare scratch
+> The flare is the most advanced scratch in this handbook. The fader starts open and clicks closed briefly during each stroke, cutting one sound into two or more.
+The jog hand moves forward and back steadily, like a baby scratch. The fader hand starts open and makes quick clicks shut and open again. A one-click flare splits each stroke into two sounds. Two clicks split it into three. The flare opens the door to fast, complex patterns.
+dg: scratch flare | The sound is open by default, with short closed clicks.
+teach:
+- Practise the click on its own: closed for an instant, then open.
+- Add the jog hand slowly, one click per stroke.
+- Move to two clicks per stroke when one is solid.
+check:
+- Perform a one-click flare in time.
+- Combine flares with other scratches in a short routine.
+
+## HL-S07 | Hot cue performance
+> With hot cues on single sounds, the performance pads become a drum machine. Headliners use them to play new rhythms and chop vocals and melodies live.
+h: Hot cue drumming
+Set hot cues at the start of individual drum sounds, such as kicks, snares and hats. Then play the pads to create a new beat, over a beatless track or on its own.
+steps:
+- Start slowly with a simple pattern, using a metronome.
+- Move to faster and swung or syncopated patterns.
+- Load hot cues on two decks to layer sounds and trigger them together.
+h: Chopping vocals and melodies
+Set hot cues on individual words or notes and play them in a new order or rhythm.
+h: Quantise and hot cues
+Quantise makes hot cues land exactly on the beat, which helps accuracy. But it stops you playing between the beats, so turn it off for swung or syncopated patterns. Fix the beat grid first (MR-R02).
+h: Colours and comments
+In rekordbox, give hot cues colours by type (red for kicks, blue for vocals) and add comments, so the pads make sense during a performance.
+check:
+- Play a new drum pattern with hot cues.
+- Chop a vocal or melody into a new phrase.
+
+== rekordbox
+
+## HL-R01 | Streaming services
+> Streaming puts millions of tracks a tap away. It's powerful, but it isn't the same as owning your music.
+rekordbox can connect to services such as Beatport, Beatsource, SoundCloud and TIDAL. Log in to the service from rekordbox's tree view with your account for that service, then browse and load tracks as normal.
+table:
+| Advantages | Disadvantages |
+| Huge library of music | Needs a reliable internet connection |
+| No need to store files | You don't own the music |
+| Try tracks before buying | Monthly subscription |
+| Discover new music quickly | Recording streamed sets is usually blocked for copyright |
+|  | Usually can't be exported to USB for club players |
+tip: Teach students to stream to explore, and buy the tracks they'll play. A set built only on streaming can fall apart if the wifi does.
+check:
+- Connect a streaming service and load a track.
+- Explain the pros and cons of streaming.
+
+## HL-R02 | Stems | new
+> Stem separation splits a finished track into its parts, such as vocals, drums, bass and melody, while you play.
+Newer versions of rekordbox and other DJ software can separate tracks into stems in real time. You can mute the drums to make an instant acapella, drop the vocal for an instrumental, or keep only the drums of one track under the melody of another.
+dg: stems | A track split into stems. Here, the melody is switched off.
+h: Ways to use stems
+- **Instant acapellas** for mash-ups (HL-S03).
+- **Cleaner blends:** bring in only the drums of the next track, then the rest.
+- **Remove a clashing vocal** during a long blend.
+warn: Stems need a recent computer and the right software version and plan. The separation isn't perfect, so check how it sounds on big speakers before using it in a showcase.
+check:
+- Use stems to create an acapella or instrumental live.
+- Blend using stems without obvious glitches.
+
+## HL-R03 | Recording and reviewing a mix
+> Recording a mix lets students hear themselves as an audience would. Listening back is the fastest way to improve.
+- **In rekordbox:** use the recording function in performance mode. Recording may depend on the software plan.
+- **On an all-in-one unit:** many can record the master output straight to a USB stick.
+h: Reviewing a mix
+steps:
+- Listen back without the decks in front of you.
+- Note every moment that sounded off: a drift, a clash, a level jump.
+- Pick the one thing that would most improve the mix.
+- Practise just that in the next lesson.
+warn: Only record a student's performance with prior permission, following NextGen's safeguarding guidance.
+check:
+- Record a mix and choose one specific improvement from listening back.

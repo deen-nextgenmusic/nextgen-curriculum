@@ -1,0 +1,734 @@
+@title: Main Room
+@navtitle: Main Room
+@short: Main Room
+@title_html: The <em>Main Room</em>
+@pic: jog
+@lead: Students who can already mix learn to shape a set: setting the tempo by ear, using filters and loops, choosing tracks in compatible keys, preparing music properly and reacting to the crowd.
+@check: A 10-12 minute mix of four or five tracks across at least two genres, with tempo set by ear. It must include at least one filter or loop transition and one key choice the student can explain, with levels steady throughout. Then the student talks you through their set plan in under a minute.
+
+== Knowledge
+
+## MR-K01 | Pulse: going deeper
+> At Main Room, students stop just following the beat and start predicting it: where a phrase starts, where a section changes, where the offbeat sits.
+Main Room adds more genres with different feels, so the pulse exercises widen too.
+table:
+| Genre group | Students clap on |
+| House, tech house, techno, disco | A beat you name, such as bar 2, beat 3. The first beat of every phrase. The first beat of each new section. The offbeat ("and") between kicks. |
+| Hip hop, grime, trap, R&B | The pulse, and the first beat of each bar, even when the kick isn't on it |
+tip: Clapping the offbeat is harder than it sounds. Count "1 and 2 and 3 and 4 and" and clap on every "and". It's the same place the open hi-hat sits in house.
+game: Call the Beat | You shout a bar and beat, such as "bar 3, beat 2". The student claps exactly there while the track plays.
+check:
+- Clap on a named beat within four bars.
+- Clap on the first beat of each phrase and each new section.
+- Clap on the offbeat in house and techno.
+
+## MR-K02 | Phrase change signals
+> Producers signal that a phrase is ending, so listeners feel the change coming. DJs who hear these signals never get lost.
+Small signals mark the end of a phrase. Bigger ones mark the end of a section. Listen for:
+- **Drum fills:** a few extra snare or tom hits in the last bar.
+- **Dropped beats:** the kick cuts out for a beat or a bar.
+- **Risers and sweeps:** a rising noise or whoosh that builds tension.
+- **Crash cymbals:** a crash on the first beat of a new phrase.
+- **Vocal pickups:** a word or phrase leading into the next section.
+- **Snare rolls:** snare hits getting faster before a drop.
+In tracks without vocals or melody, it can help to label contrasting sections **A**, **B** and **C** rather than verse and chorus.
+game: Signal Spotter | Play a track. The student names the signal they hear at each phrase change: fill, riser, dropped beat or crash.
+check:
+- Name at least three phrase signals and hear them in a track.
+- Tell a phrase ending from a section ending.
+
+## MR-K03 | Components of electronic music: the full kit
+> Main Room students learn the rest of the drum kit and the instruments producers use to build tracks.
+cards:
+- toms | Toms | Pitched drums (high, mid, low), often used for fills.
+- crash | Crash cymbal | A big splash that marks the start of a phrase or section.
+- ride | Ride cymbal | A lighter, ringing cymbal played on every beat to drive a track forward.
+- shaker | Shaker | A rolling rhythm that fills the gaps between the beats.
+- cowbell | Cowbell | A hollow, high "tonk" common in house, disco and Latin music.
+- drummachine | Drum machine | Plays programmed drum patterns. The TR-808 and TR-909 are the famous ones.
+- sampler | Sampler | Records or loads sounds and plays them back, chopped and rearranged.
+- synth | Synthesiser | Creates sounds electronically, with controls to shape pitch, tone and movement.
+drums: disco | Disco adds busy hi-hats to the house-style beat.
+drums: techno | Techno keeps the kick on every beat and strips most other sounds away.
+check:
+- Identify toms, crash, ride, shaker and cowbell by ear.
+- Explain what a drum machine, sampler and synthesiser do.
+
+## MR-K04 | Signal flow inside the mixer
+> Each mixer channel processes the sound in a fixed order. Knowing that order explains why trim comes before EQ, and why the cue still works with the fader down.
+dg: signal2 | The path through one mixer channel. The headphone cue is taken before the fader, so you can hear a track the crowd can't.
+- **Input selector:** chooses the source. **Line** is for media players, **phono** is for turntables (the record's signal needs boosting and correcting), and **USB** or **digital** is for computers.
+- **Trim:** sets the level coming into the channel.
+- **EQ:** shapes the frequencies.
+- **Channel meter:** shows the level after trim and EQ.
+- **Channel fader and crossfader:** decide how much reaches the master.
+- **Outputs:** **master out** to the main speakers, **booth out** to the DJ's monitor speakers, **rec out** to a recorder.
+warn: Plugging a turntable into a line input sounds thin and quiet. Plugging a media player into a phono input sounds horribly loud and distorted. Check the input selector first when something sounds wrong.
+check:
+- Put the stages of a mixer channel in order.
+- Explain the difference between line and phono inputs, and master and booth outputs.
+
+## MR-K05 | Equipment functions: going deeper
+> Main Room students use more of the controller: the crossfader properly, the loop controls and quantise.
+h: Crossfader
+The crossfader blends the decks assigned to its left and right sides. In the middle, both play. Its **curve** sets how quickly the sound changes as it moves. A smooth curve is for blending. A sharp curve opens a deck fully after only a tiny movement, which is what scratch DJs need.
+dg: xfcurve | The crossfader curve changes how quickly each deck fades.
+h: Loop controls
+- **Loop in:** sets where a loop starts.
+- **Loop out:** sets where it ends, and the track starts repeating.
+- **Reloop or exit:** leaves the loop, or jumps back into it.
+- **Auto beat loop:** loops a set number of beats instantly, such as 4 or 8.
+h: Quantise
+Snaps cue points, hot cues and loops to the nearest beat (see MR-K14).
+tip: Ask students to explain sync and then not use it for this stage. Sync is useful, but a Main Room DJ should be able to match tempos by ear first.
+check:
+- Change the crossfader curve and explain when to use each setting.
+- Set a manual loop and an auto beat loop.
+
+## MR-K06 | Levels and gain staging
+> Every part of the setup can only handle so much signal. Too much and it distorts. Setting levels properly keeps the music loud, clean and even from track to track.
+Three controls affect volume, in this order:
+1. **Trim:** the level coming in. Set this first.
+2. **Channel fader:** how much of that channel goes to the master.
+3. **Master level:** the overall volume to the speakers.
+dg: meter | Aim for the middle meter: mostly green, occasionally touching amber, never red.
+h: Setting a track's level
+steps:
+- Look at the waveform. A thin waveform means a quieter track.
+- Play the loudest part (the widest part of the waveform).
+- Set trim so the meter sits around the last green light, flickering into amber.
+- Compare with the playing track in your headphones and adjust by ear.
+warn: Never go into the red. Clipping sounds harsh, can damage speakers, and makes the next track seem quiet.
+check:
+- Set trim correctly using the meter and their ears.
+- Keep the level even from one track to the next.
+
+## MR-K07 | Genres at Main Room
+> Main Room widens the palette: the disco roots of club music, techno, tech house and R&B, plus two genres every student asks for.
+table:
+| Genre | Typical BPM | Where and when | Mixing it |
+| Disco | 110-125 | New York and Philadelphia, 1970s | Live drums drift: keep blends short or ride the tempo |
+| Techno | 125-140 | Detroit 1980s, then Berlin | Long, smooth blends shaped with EQ and filters |
+| Tech house | 122-128 | UK and Europe, 1990s | Long blends with a careful bass swap |
+| R&B | 60-110 | US from the 1940s, modern R&B from the 1980s | Short blends or cuts. Mind the vocals |
+| Amapiano | 110-115 | South Africa, mid-2010s | Swap the log drum bass carefully |
+| Trap and UK drill | 130-150 (half-time feel) | Atlanta 2000s, Chicago and London 2010s | Count in half time and cut on the phrase |
+
+## MR-K08 | Disco
+> Disco was the first music made for DJs. Its long, groove-heavy records invented the club night and led directly to house.
+facts:
+- Tempo = 110-125 BPM
+- Born = New York and Philadelphia, early 1970s
+- Rhythm = Four to the floor, busy hi-hats
+- Sound = Strings, bass guitar, soaring vocals
+roots: Soul and funk, Motown, Philly soul, Latin percussion > Disco > House, Hi-NRG, Italo disco, Nu-disco
+drums: disco | Disco's beat is the template house borrowed.
+h: Brief history
+In the early 1970s, New York DJs such as David Mancuso at the Loft, and later Larry Levan at the Paradise Garage, played soul and funk records for dancers all night. Their crowds were mostly Black, Latino and gay, and the clubs welcomed people who weren't welcome elsewhere. In Philadelphia, the Philadelphia International label and its house band MFSB created the lush strings and four-to-the-floor drums that became the disco sound.
+Producers responded with longer tracks built for the dancefloor. Remixer Tom Moulton helped invent the 12-inch single, which was louder and longer than a 7-inch and perfect for DJs. By 1977 disco was everywhere, from Studio 54 to the film *Saturday Night Fever*. Donna Summer and Giorgio Moroder's "I Feel Love" used synthesisers for almost everything and pointed towards electronic dance music.
+A backlash in 1979 pushed disco out of the charts, but it survived in clubs and became house. Disco-pop is back today through artists such as Dua Lipa.
+timeline:
+- 1970 = David Mancuso opens the Loft
+- 1974 = MFSB's "TSOP" sets the Philly sound
+- 1977 = "I Feel Love" and Studio 54
+- 1979 = The "Disco Sucks" backlash
+- 2020s = Disco-pop returns to the charts
+h: What to listen for
+- A four-to-the-floor kick with busy, open hi-hats on the offbeat.
+- Live bass guitar lines that bounce around the beat.
+- Strings, horns and piano playing big, joyful parts.
+- Soaring soul and gospel vocals.
+- Long extended mixes with instrumental breaks.
+h: Artists who shaped it
+people:
+- David Mancuso = The Loft, where the modern club night began
+- Larry Levan = Paradise Garage resident, legendary for his sound
+- Tom Moulton = Invented the extended remix and the 12-inch single
+- Giorgio Moroder = Built the electronic disco sound
+- Nile Rodgers and Chic = Funky guitar and grooves sampled for decades
+- Donna Summer = "The Queen of Disco"
+h: Key artists now
+people:
+- Purple Disco Machine = German producer of disco-house hits
+- Horse Meat Disco = London DJs keeping the original sound alive
+- Dua Lipa = Brought disco-pop back to the top of the charts
+listen:
+- MFSB - TSOP (The Sound of Philadelphia) (1974)
+- Donna Summer - I Feel Love (1977)
+- Sylvester - You Make Me Feel (Mighty Real) (1978)
+- Chic - Good Times (1979)
+- Sister Sledge - We Are Family (1979)
+- Dua Lipa - Don't Start Now (2019)
+tip: Older disco was played by live drummers, so the tempo wanders. Keep blends short, or ride the tempo slider to keep tracks together.
+check:
+- Explain how disco led to house.
+- Name two disco pioneers.
+- Mix two disco tracks with live drums.
+
+## MR-K09 | Techno
+> Techno is house's harder, more futuristic cousin: driving, repetitive and built from machines.
+facts:
+- Tempo = 125-140 BPM, faster today
+- Born = Detroit, mid-1980s
+- Rhythm = Relentless kick on every beat
+- Sound = Dark, hypnotic, industrial
+roots: Kraftwerk and synth-pop, Electro and funk, Chicago house > Techno > Minimal, Hard techno, Trance, Tech house
+drums: techno | A techno groove is often just a kick, an offbeat hat and the odd clap.
+h: Brief history
+Three friends from Belleville, near Detroit, created techno: Juan Atkins, Derrick May and Kevin Saunderson. They mixed the funk they grew up with and the electronic music of the German group Kraftwerk, and imagined the future of a city whose car factories were closing. Atkins had already made electro as Cybotron, and the "Belleville Three" released records on their own labels.
+In the 1990s, a second wave of Detroit artists, including Jeff Mills and the collective Underground Resistance, made techno harder and more political. When the Berlin Wall fell in 1989, techno became the sound of a reunited Berlin. Clubs such as Tresor opened in empty buildings, and Berlin became techno's second home. Today techno ranges from deep and hypnotic to fast hard techno at 150 BPM and above.
+timeline:
+- 1985 = Detroit's Belleville Three release early techno
+- 1987 = "Strings of Life" by Rhythim Is Rhythim
+- 1989 = Berlin Wall falls
+- 1991 = Tresor opens in Berlin
+- 2020s = Hard techno goes viral
+h: What to listen for
+- A kick on every beat that drives the track forward.
+- Machine sounds, especially the Roland TR-909.
+- Short loops that change slowly over many bars.
+- Few or no vocals.
+- A darker, more serious mood, often in minor keys.
+h: Artists who shaped it
+people:
+- Juan Atkins = "The originator", as Cybotron and Model 500
+- Derrick May = "Strings of Life", as Rhythim Is Rhythim
+- Kevin Saunderson = Took techno into the charts with Inner City
+- Jeff Mills = "The Wizard", with lightning-fast mixing
+- Underground Resistance = Detroit collective that made it harder
+- Richie Hawtin = Pioneered minimal techno as Plastikman
+h: Key artists now
+people:
+- Charlotte de Witte = Belgian DJ leading the dark, driving sound
+- Amelie Lens = Belgian DJ and label owner
+- Adam Beyer = Swedish DJ behind the Drumcode label
+- Sara Landry = One of the biggest names in hard techno
+listen:
+- Cybotron - Clear (1983)
+- Model 500 - No UFO's (1985)
+- Rhythim Is Rhythim - Strings of Life (1987)
+- Inner City - Good Life (1988)
+- Jeff Mills - The Bells (1997)
+- Adam Beyer & Bart Skils - Your Mind (2018)
+tip: Techno is mixed in long blends, often several phrases, using EQ and filters to carve one track into the other. It's the best genre for practising MR-S01.
+check:
+- Explain where techno came from and how it reached Berlin.
+- Name the Belleville Three.
+- Make a long techno blend using EQ.
+
+## MR-K10 | Tech house
+> Tech house takes house's groove and techno's stripped-back drive, and adds rolling basslines made for big rooms.
+facts:
+- Tempo = 122-128 BPM
+- Born = UK and Europe, 1990s
+- Rhythm = Four to the floor, lots of percussion
+- Sound = Heavy, bouncing bass, vocal hooks
+roots: House, Techno, Minimal > Tech house > Bass house, Big-room festival sound
+drums: techhouse | Extra percussion gives tech house its bounce.
+h: Brief history
+Tech house grew in mid-1990s London, when DJs such as Terry Francis, Eddie Richards and Nathan Coles wanted something funkier than techno but tougher than house. Their club night Wiggle and venues such as The End helped define it.
+In the 2000s and 2010s it exploded on Ibiza and the festival circuit. Mark Knight's label Toolroom and Jamie Jones and Lee Foss's Hot Creations made it one of the biggest sounds in club music. In 2018, Fisher's "Losing It" became a global hit and earned a Grammy nomination.
+h: What to listen for
+- A punchy four-to-the-floor kick at 122-128 BPM.
+- Rolling, bouncing basslines that carry the whole track.
+- Lots of percussion: shakers, bongos, toms and claps.
+- Short, catchy vocal hooks rather than full songs.
+- Long, DJ-friendly intros and outros.
+h: Artists who shaped it
+people:
+- Terry Francis = Wiggle resident, one of the first tech house DJs
+- Eddie Richards = UK acid house veteran who helped define the sound
+- Mark Knight = Founded Toolroom Records in 2003
+- Jamie Jones = Hot Creations co-founder and Ibiza star
+h: Key artists now
+people:
+- Fisher = Australian producer behind "Losing It"
+- Chris Lake = UK producer and Black Book Records founder
+- John Summit = US DJ who sells out arenas
+- Patrick Topping = Newcastle DJ and Trick Records founder
+listen:
+- Jamie Jones - Hungry for the Power
+- Patrick Topping - Forget
+- Fisher - Losing It (2018)
+- Chris Lake & Alexis Roberts - Turn Off the Lights (2018)
+- John Summit & Hayla - Where You Are (2023)
+tip: Tech house basslines are the whole track. Never let two run together. Use a slow bass swap or a low-pass filter on the outgoing track.
+check:
+- Recognise tech house and explain how it differs from house and techno.
+- Name a pioneer and a current tech house artist.
+- Blend two tech house tracks without the basslines clashing.
+
+## MR-K11 | R&B
+> R&B is soul, groove and vocals. It has shaped pop for 70 years, and today's R&B mixes it with hip hop production.
+facts:
+- Tempo = 60-110 BPM
+- Born = US, 1940s; modern R&B from the 1980s
+- Rhythm = Laid back, swung
+- Sound = Vocal-led, smooth, emotional
+roots: Blues, Gospel, Jazz, Soul > R&B > New jack swing, Neo-soul, UK R&B, Afroswing
+drums: rnb | Modern R&B often uses a relaxed, hip hop-style beat.
+h: Brief history
+"Rhythm and blues" was the name the American music industry gave Black popular music in the late 1940s. It grew into soul through Ray Charles, Sam Cooke and Aretha Franklin, and labels such as Motown turned it into pop.
+In the late 1980s, producer Teddy Riley created **new jack swing** by mixing R&B with hip hop beats. Mary J. Blige, TLC and Destiny's Child followed in the 1990s, then Usher and Beyoncé, and producers such as Timbaland and The Neptunes became stars in their own right. In the UK, Craig David, Ms. Dynamite and later Jorja Smith and Cleo Sol built a UK R&B sound, often linked with garage.
+h: What to listen for
+- Vocals first: smooth melodies, harmonies and ad-libs.
+- Rich chords from keys, guitar and strings.
+- A relaxed, swung groove, often with hip hop drums.
+- Modern tracks use 808 bass and trap-style hi-hats.
+- Songs about love and relationships, usually 3-4 minutes long.
+h: Artists who shaped it
+people:
+- Ray Charles = Mixed gospel and blues to help create soul
+- Aretha Franklin = "The Queen of Soul"
+- Marvin Gaye = Took R&B into deep, personal and political songs
+- Teddy Riley = Invented new jack swing
+- Mary J. Blige = "The Queen of Hip Hop Soul"
+- Craig David = Led UK R&B and garage around 2000
+h: Key artists now
+people:
+- SZA = One of the biggest R&B artists in the world
+- Frank Ocean = Influential, experimental singer-songwriter
+- Jorja Smith = BRIT-winning Walsall singer
+- Raye = Record-breaking BRIT Award winner
+listen:
+- Ray Charles - What'd I Say (1959)
+- Aretha Franklin - Respect (1967)
+- Marvin Gaye - What's Going On (1971)
+- Blackstreet - No Diggity (1996)
+- Destiny's Child - Say My Name (1999)
+- Usher - Yeah! (2004)
+- SZA - Snooze (2022)
+h: Mixing R&B
+- Tempos vary a lot, so group tracks by speed before the set.
+- Tracks are short and vocal-heavy. Blend over intros and outros, or cut on the phrase.
+- Choose tracks for their mood and lyrics as well as their beat (see HL-K17).
+check:
+- Recognise R&B and name artists from two eras.
+- Mix R&B tracks without clashing vocals.
+
+## MR-K12 | Amapiano | new
+> Amapiano is South Africa's biggest export: laid-back house grooves, jazzy keys and the deep, rolling log drum.
+facts:
+- Tempo = 110-115 BPM
+- Born = Gauteng, South Africa, mid-2010s
+- Rhythm = Steady kick, shuffled percussion
+- Sound = Log drum bass, piano, airy vocals
+roots: Kwaito, Deep house, Jazz and lounge, Bacardi house > Amapiano > Private school piano, Afrobeats crossovers
+drums: amapiano | The log drum plays a bouncing bass pattern over a steady kick.
+h: Brief history
+Amapiano ("the pianos" in isiZulu) grew in the townships around Johannesburg and Pretoria in the mid-2010s. Young producers mixed deep house, jazz, lounge and kwaito, South Africa's own 1990s house sound, and shared tracks on WhatsApp and social media long before radio played them.
+Its signature is the **log drum**, a booming, pitched percussive bass. Producers Kabza De Small and DJ Maphorisa, working together as Scorpion Kings, defined the sound. Focalistic's "Ke Star" became an anthem in 2020, Uncle Waffles' viral dancing DJ sets took it worldwide, and Tyla's "Water" won the first Grammy for Best African Music Performance in 2024.
+timeline:
+- 2010s = The sound grows in Gauteng's townships
+- 2019 = Breaks out across South Africa
+- 2020 = Focalistic's "Ke Star" becomes an anthem
+- 2021 = Uncle Waffles goes viral
+- 2024 = Tyla's "Water" wins a Grammy
+h: What to listen for
+- A steady kick at 110-115 BPM with a relaxed, rolling feel.
+- The log drum: a deep, bouncing, pitched bass hit.
+- Shakers and shuffled percussion filling every gap.
+- Jazzy piano chords and soft synth pads.
+- Airy vocals, chants and spoken phrases, often in isiZulu, Sesotho or Setswana.
+h: Artists who shaped it
+people:
+- Kabza De Small = "King of Amapiano", half of Scorpion Kings
+- DJ Maphorisa = Producer and the other half of Scorpion Kings
+- MFR Souls = Early duo who helped define the sound
+- Kelvin Momo = Pioneered the softer "private school piano" style
+- Focalistic = Rapper behind the anthem "Ke Star"
+h: Key artists now
+people:
+- Uncle Waffles = Eswatini-born DJ who took it worldwide
+- Tyla = Grammy-winning singer who took it to the charts
+- Tyler ICU = Producer behind the hit "Mnike"
+listen:
+- Focalistic & Vigro Deep - Ke Star (2020)
+- Kabza De Small & DJ Maphorisa - Sponono (2020)
+- Uncle Waffles - Tanzania (2022)
+- Tyler ICU & Tumela_za - Mnike (2023)
+- Tyla - Water (2023)
+tip: The log drum carries both bass and rhythm. Swap the low EQ cleanly, or the two log drums will fight. Amapiano tracks are long with gentle intros, which makes them good for long blends.
+check:
+- Recognise amapiano by its log drum.
+- Name two artists who shaped it.
+- Blend two amapiano tracks with a clean bass swap.
+
+## MR-K13 | Trap and UK drill | new
+> Trap and drill are the sound of modern rap: booming 808 bass, rattling hi-hats and a half-time feel.
+facts:
+- Tempo = 130-150 BPM, felt at half speed
+- Born = Atlanta 2000s; Chicago and London 2010s
+- Rhythm = Half-time drums, rolling hi-hats
+- Sound = 808 bass, dark melodies
+roots: Southern hip hop, Crunk, Chicago drill, Grime and UK rap > Trap and drill > UK drill, Brooklyn drill, EDM trap, Jersey drill
+drums: drill | UK drill: a snare on beat 3 gives the half-time feel, with skipping hi-hats.
+h: Brief history
+Trap began in Atlanta in the 2000s. T.I.'s 2003 album *Trap Muzik* named it, and artists such as Gucci Mane and Young Jeezy built it, using the Roland TR-808's booming bass and fast, rolling hi-hats. Producers such as Zaytoven and Lex Luger defined the beats, and by the 2010s Migos and Future had made trap the sound of mainstream rap.
+Drill started in Chicago in the early 2010s with Chief Keef. In South London, groups such as 67 created **UK drill**, with sliding 808 basslines and a darker, faster bounce. In 2021, Russ Millions and Tion Wayne's "Body" became the first drill track to reach number one in the UK, and artists such as Central Cee took the sound global.
+timeline:
+- 2003 = T.I.'s *Trap Muzik* names the genre
+- 2012 = Chief Keef brings Chicago drill to the world
+- Mid-2010s = 67 and others create UK drill
+- 2021 = "Body" is the first UK number one for drill
+- 2022 = Central Cee's "Doja" goes global
+h: What to listen for
+- A half-time feel: 140 BPM that feels like 70.
+- Booming 808 bass, which slides between notes in UK drill.
+- Rolling hi-hats in triplets and fast bursts.
+- Dark, minor-key melodies on piano, strings or bells.
+- Rapped vocals, often with ad-libs.
+h: Artists who shaped it
+people:
+- T.I. = Named trap with *Trap Muzik*
+- Gucci Mane = One of trap's founding artists
+- Zaytoven = Producer who shaped the Atlanta trap sound
+- Chief Keef = Started Chicago drill
+- 67 = South London group who helped create UK drill
+- Headie One = Took UK drill into the charts
+h: Key artists now
+people:
+- Central Cee = UK drill's biggest global star
+- Metro Boomin = US producer behind huge trap hits
+- Travis Scott = Trap artist who sells out stadiums
+listen:
+- T.I. - What You Know (2006)
+- Chief Keef - I Don't Like (2012)
+- Migos - Bad and Boujee (2016)
+- Headie One, AJ Tracey & Stormzy - Ain't It Different (2020)
+- Russ Millions & Tion Wayne - Body (2021)
+- Central Cee - Doja (2022)
+h: Mixing trap and drill
+- **Count in half time.** At 140 BPM the music feels like 70. Phrases are usually 8 or 16 bars.
+- **Cut, don't blend.** Two 808 basslines sliding at once sound terrible.
+- **Use the drops.** Most tracks have a clear moment to cut into after the intro.
+warn: Many trap and drill tracks contain explicit or violent lyrics. Use clean versions in school, check lyrics before a showcase, and agree what's suitable with the school.
+check:
+- Explain the half-time feel.
+- Name a trap pioneer and a UK drill artist.
+- Mix trap or drill tracks with clean cuts on the phrase.
+
+## MR-K14 | Transients and quantise
+> Every drum hit starts with a sharp spike called a transient. Software uses transients to find the beat, and quantise uses that beat to snap your timing into place.
+A **transient** is the very start of a sound: the attack. Drums have sharp transients, which is why they look like spikes on a waveform. When rekordbox analyses a track, it finds those spikes and places a beat grid on them.
+**Quantise** snaps cue points, hot cues and loops to the nearest beat on the grid. Press a hot cue slightly late and quantise moves it onto the beat.
+dg: quantise | With quantise on, a late press lands on the beat.
+h: When to turn quantise off
+- When the beat grid is wrong (fix the grid first: MR-R02).
+- When you want to set a cue on something off the beat, such as a vocal pickup.
+- For hot cue drumming and some juggling routines, where you play rhythms between the beats.
+check:
+- Explain what a transient is and why it matters to rekordbox.
+- Turn quantise on and off and explain when to use each.
+
+## MR-K15 | Harmonic blending
+> Harmonic blending means choosing tracks whose keys share most of their notes, so melodies and vocals sound good together.
+h: The basics of harmony
+There are 12 different notes, from C up to B. The gap between neighbouring notes is a **semitone**, and two semitones make a **tone**. A **scale** is a pattern of tones and semitones, and a **key** is the set of notes from one scale. C major uses only the white keys on a piano: C, D, E, F, G, A, B.
+Keys that share most notes sound good together:
+- **Relative major and minor:** exactly the same notes. C major and A minor are relatives.
+- **Dominant:** the key five notes up (G major from C major). One note different.
+- **Subdominant:** the key four notes up (F major from C major). One note different.
+h: The Camelot wheel
+The Camelot wheel turns those relationships into numbers. Moving one number round the wheel is moving to the dominant or subdominant. Swapping A and B on the same number is moving to the relative major or minor.
+dg: camelot 8 | From 8A (A minor), the safe moves are 7A, 9A and 8B (C major).
+tip: The **circle of fifths** is the same wheel musicians use, with key names instead of Camelot codes. Students taking GCSE Music may already know it, so make the link for them.
+h: When key matters
+Key matters most when melodies, chords or vocals overlap. Drum-only intros and outros are forgiving. A good rule: check key whenever both tracks will have melody playing at once.
+check:
+- Explain relative, dominant and subdominant keys.
+- Use the Camelot wheel to pick compatible tracks.
+- Hear the difference between a harmonic and a clashing blend.
+
+## MR-K16 | Improvisation: reading the room
+> A good DJ watches the crowd as much as the decks, and changes the plan when the room asks for it.
+table:
+| What you see | What it means | Try |
+| Singing and hands up | It's working | Stay in the same lane: same artist, label, genre or era |
+| A full floor, people joining | Energy is building | Keep building, or hold here |
+| People leaving the floor | Losing them | A track everyone knows, or a change of genre |
+| Chatting, not dancing | Low engagement | More energy, or a bigger, more familiar tune |
+| People taking breaks | Tired | A few lower-energy tracks, then build back up |
+game: Crowd Cards | Flip a card such as "the floor's emptying" or "they want a classic". The student chooses the next track and explains why.
+check:
+- Describe signs that a crowd is enjoying a set or losing interest.
+- Change the plan sensibly in response to a crowd card.
+
+## MR-K17 | Structuring a mix: genre and energy
+> Main Room students plan sets two ways: grouping tracks by genre, and shaping energy across the whole set.
+h: By genre
+Group tracks of the same genre together and move through the genres in an order that makes sense for tempo and energy. In a 60-minute set, that might be four or five blocks of about 12 minutes.
+dg: setgenre | Genre blocks that climb in tempo through a set.
+h: By energy
+Some DJs build steadily. Some ride a rollercoaster of build-ups and breakdowns. Some mix drop to drop to keep energy high. A warm-up set should leave room for the next DJ, so it shouldn't peak too early.
+dg: energy coaster | A rollercoaster set: peaks and dips keep the crowd on the move.
+check:
+- Plan a set grouped by genre in a sensible order.
+- Draw the energy shape of a planned set and explain it.
+
+== Skills
+
+## MR-S01 | Filters
+> A filter removes everything above or below a point. It's the smoothest way to bring a track in or out, and it builds tension like nothing else.
+A **high-pass filter** lets high frequencies through and removes the lows. A **low-pass filter** does the opposite. Most controllers put both on one knob: turn right for high-pass, left for low-pass, and the middle is off.
+dg: filters | Turning the filter knob moves the cut-off point.
+h: Using filters
+- **Bring a track in** with the high-pass filter on, then slowly open it.
+- **Take a track out** by sweeping the high-pass filter up, or the low-pass filter down.
+- **Build tension** by sweeping a high-pass filter up before a drop.
+- **Balance a blend** by filtering one track so the two don't crowd each other.
+dg: blend 1 1 1 | A three-phrase blend: filter the new track in over phrase 2, play both in phrase 3, filter the old one out in phrase 4.
+tip: Filters don't boost, they only cut. Return the knob to the middle after every transition, or the next mix starts wrong.
+check:
+- Use a high-pass and a low-pass filter in a blend.
+- Build tension with a filter sweep before a drop.
+
+## MR-S02 | Looping
+> A loop repeats a section of a track. Use one to extend an outro when the next track needs more time, or to rescue a mix.
+A good loop:
+- Starts on beat 1, ideally at the start of a phrase.
+- Lasts a whole number of bars, ideally a whole phrase (4, 8 or 16 bars).
+- Captures a complete musical idea and doesn't cut off a vocal or melody.
+dg: loop | A loop that fits the phrase sounds seamless. One that starts mid-bar glitches every time.
+Outros are easiest to loop because they're usually just drums. Use quantise so the loop locks to the beat. Keep listening: if the grid is slightly off, the loop can slowly drift out of time with the other track.
+game: Loop Rescue | The outgoing track is about to end and the next one isn't ready. The student loops the outro to save the mix.
+check:
+- Set a clean loop on a phrase and exit it on the beat.
+- Use a loop to extend an outro during a blend.
+
+## MR-S03 | Flare: the spinback
+> The spinback stops a track with a dramatic backwards spin. It comes from Jamaican sound system culture, where DJs spun a tune back to restart it when the crowd demanded.
+To perform it, push the jog wheel or record hard anticlockwise so the track spins backwards and slows to a stop.
+h: Drop in with a spinback
+steps:
+- Play deck A. Cue deck B on a strong point, such as a drop.
+- In the last bar before the phrase change, spin deck A back.
+- On the one, start deck B and switch the crossfader from A to B in the same moment.
+warn: Use spinbacks sparingly. One at the right moment gets a cheer. Five in a set gets old.
+check:
+- Perform a clean spinback.
+- Drop the next track in on the one straight after a spinback.
+
+## MR-S04 | Flare: scratching a track in
+> Scratching the first beat of the incoming track over the outgoing one is a classic hip hop way to bring a track in with style.
+steps:
+- Play deck A. Cue deck B on its first beat, with its hot cue set there.
+- Move the crossfader to the middle so both decks can be heard.
+- As the phrase change approaches, baby scratch deck B's first beat in time with deck A.
+- On the one, let deck B go and snap the crossfader across to B.
+tip: Keep the scratches short and rhythmic. The idea is to tease the next track, not cover the outgoing one.
+check:
+- Scratch a track in over another and release it on the one.
+
+## MR-S05 | Flare: beat repeat and slip
+> Beat repeat stutters a tiny loop for a moment. With slip on, the track carries on silently underneath, so when you let go it's still in time.
+Turn on **slip**, then hold a short loop or a beat repeat pad (such as a half or quarter beat). The sound stutters. When you let go, the track jumps to where it would have been if you'd never touched it.
+dg: slip | With slip on, the track keeps running underneath the loop.
+h: Using beat repeat in a blend
+steps:
+- Bring the new track in, beatmatched, with its low EQ cut.
+- In the bar before a phrase change, hold beat repeat for movement and tension.
+- Let go on the one and swap the bass.
+- Fade the old track out.
+warn: Beat repeat is easy to overuse. Less is more: a single bar before a big moment is enough.
+check:
+- Use beat repeat with slip and stay in time.
+
+## MR-S06 | Beatmatching by ear
+> At Main Room, students match tempo using only their ears: no BPM display, no sync.
+The tempo slider changes speed as a percentage. At 120 BPM, moving it 2% adds 2.4 BPM. Once two tracks are lined up, the time it takes them to drift apart tells you how far out the tempo is: fast drift means a big gap, slow drift means a small one.
+h: The ear-only routine
+steps:
+- Play deck A. Cover the BPM displays.
+- Start deck B on the one, at the start of a phrase, and line it up with the jog wheel.
+- Listen: is B running ahead or falling behind? How quickly?
+- Move B's tempo about 1% in the right direction. Line up again.
+- Still drifting? Make a smaller move. Repeat until it holds for a whole phrase.
+dg: beatalign | Drift means the tempo is wrong. A steady offset means only the alignment is wrong.
+game: Screen Off | Tape over the displays and beatmatch two tracks of unknown tempo. Time how long it takes.
+check:
+- Match the tempo of two tracks by ear, without the display.
+- Keep them in time for a full phrase.
+
+## MR-S07 | Transitions: going further
+> Main Room adds longer blends and faster, punchier changes. The skill is choosing the right one for the tracks.
+h: Longer blends
+dg: blend 1 1 1 | Three-phrase blend.
+dg: blend 2 2 2 | Six-phrase blend: two in, two together, two out. For long techno and house mixes.
+h: Drop in
+Like a straight cut, but you press PLAY on the new track and switch the crossfader in the same moment, usually right on a drop.
+dg: cut dropin | A drop in: play and switch together on the one.
+h: Drop in with a quick fade
+Drop the new track in at the start of a phrase using its channel fader, then pull the old track's fader down quickly over a beat or two. It's softer than a straight cut.
+dg: cut quickfade | The old track fades quickly after the drop in.
+h: Crossfader blend
+A one-phrase blend done on the crossfader instead of the channel faders, with a bass swap in the middle. It's useful on setups where the faders are awkward to reach.
+tip: Before each transition, ask the student to name it and say why it suits these two tracks. That's the real Main Room skill.
+check:
+- Perform three- and six-phrase blends.
+- Perform a drop in, a quick fade and a crossfader blend.
+- Choose and justify a transition for two given tracks.
+
+## MR-S08 | Stab scratch
+> The stab is a very fast forward cut: a short, sharp burst of sound on the push, with the fader closed on the way back.
+Push the sound forward quickly with the fader open, close the fader, then pull back. The difference from the forward cut is speed: a stab is a quick jab, so you hear a short, punchy hit.
+dg: scratch stab | Short bursts on each push.
+check:
+- Perform stabs in time on every beat, then on every half beat.
+
+## MR-S09 | Tear scratch
+> The tear splits one movement into two, with a tiny pause in the middle, so a single push makes two sounds.
+The fader stays open. Push forward, pause for a split second, push again. Then pull back the same way. Each stroke makes two sounds, so a forward and back makes four.
+dg: scratch tear | Each stroke is broken by a short pause.
+teach:
+- Practise the pause slowly, saying "ah-ah" for each half.
+- Speed up while keeping the halves even.
+check:
+- Perform tears in time, with even halves.
+
+## MR-S10 | Scribble scratch
+> The scribble is a fast, tight buzz made by tensing the forearm so the hand vibrates over the start of the sound.
+The fader stays open. Keep the movement tiny and fast, close to 9 o'clock on the jog wheel. It sounds harsh on its own, so it works best as a short burst within a routine, or at the end of a phrase.
+dg: scratch scribble | Very short, very fast movements.
+check:
+- Perform a controlled scribble for one beat, then return to a baby scratch.
+
+## MR-S11 | Chirp scratch
+> The chirp sounds like a bird. The fader closes during each stroke, so you only hear the start of every movement.
+Do a baby scratch while the fader hand closes on the push and opens on the pull. Both hands move together, so it takes practice to coordinate. It's the first scratch where the jog wheel and crossfader work at the same time, which is why it sits at Main Room after students are confident with the baby scratch and forward cut.
+dg: scratch chirp | Short bursts of sound at the start of each stroke.
+teach:
+- Practise the fader movement on its own first, without the jog wheel.
+- Add the jog wheel at half speed. Count out loud.
+- Build up to full speed while keeping both hands in time.
+h: Chirp combinations
+Once the chirp is solid, combine it with other scratches over a one-bar loop:
+- Two baby scratches, then two chirps.
+- Chirp, chirp, stab, stab.
+- A tear followed by two chirps.
+game: Scratch Copycat | You play a one-bar pattern. The student copies it. Then swap roles.
+check:
+- Perform a slow chirp in time, then at full speed.
+- Play a one-bar pattern that combines at least two scratches.
+
+## MR-S12 | Beat juggling: kick and snare drops
+> Set hot cues on single kick and snare hits, then play them like drum pads over another track to add your own rhythm.
+Find an isolated kick and an isolated snare or clap in a track, and set a hot cue on each. Then trigger them over the playing track.
+steps:
+- Load the same track on both decks to begin with.
+- Set hot cues on deck B: one on a lone kick, one on a lone snare.
+- Play deck A. Use the hot cue pads and crossfader to drop deck B's kicks and snares in where they already fall.
+- Then drop them in new places to create a fresh rhythm.
+- Finally, use sounds from a different track.
+check:
+- Trigger kick and snare hot cues in time over a playing track.
+- Create a simple new rhythm with them.
+
+## MR-S13 | Tap pausing
+> Tap pausing touches the jog wheel to pause the track for a moment, over and over, so the beat stutters and feels slower.
+Each beat still plays at its normal speed, but the tiny pauses between them stretch the groove. Practised at a steady rhythm, it can make a 90 BPM beat feel noticeably slower.
+dg: tap | Short pauses (empty cells) stretch the beat.
+teach:
+- Start with a slow track (80-90 BPM) and pause every two beats.
+- Speed up the pattern as the student gets more accurate.
+- Use a metronome to keep the pauses even.
+check:
+- Tap pause in a steady, repeatable pattern.
+
+## MR-S14 | Doubling
+> Doubling plays two copies of the same track half a beat apart and flicks between them, doubling up the rhythm.
+Beatmatch two copies of a track so deck B is exactly half a beat behind deck A. Then flick the crossfader from side to side every half beat. Because you hear each deck's beats on alternate halves, every beat appears twice.
+dg: doubling | Switching between offset copies doubles the beat.
+tutor: In lessons we use Glue for doubling. Load it on both decks before the lesson so the student starts straight away.
+check:
+- Offset two copies by half a beat.
+- Switch between them in time for a full bar.
+
+== rekordbox
+
+## MR-R01 | Music management: going further
+> A Main Room library is organised so the right track is always seconds away, whatever the set needs.
+h: Folders and playlists
+- **By genre:** a folder per genre, with playlists inside.
+- **By event:** a folder for each recurring event, such as a school showcase.
+- **By position in a set:** playlists named "Warm-up", "Build", "Peak", or energy 1 to 5.
+h: Sorting tracks
+- **Alphabetical:** for finding a specific track quickly.
+- **Set order:** the order you plan to play them.
+- **BPM:** groups similar genres together in mixed playlists.
+- **Key:** shows your harmonic options at a glance.
+h: Extra information
+- **My Tag:** your own labels, such as "dark", "vocal" or "crowd-pleaser".
+- **Comments:** notes about structure, such as "long intro" or "drop at 1:05".
+- **Rating and colour:** use them for energy or set position. Keep your own system consistent.
+check:
+- Organise a library by genre and by set position.
+- Sort a playlist by BPM and key, and add tags or comments.
+
+## MR-R02 | Changing beat grids
+> rekordbox usually places the beat grid correctly, but not always. A wrong grid breaks quantise, loops and sync, so every track should be checked before a set.
+dg: beatgrid | The grid should sit exactly on each kick.
+h: Fixing a grid
+steps:
+- Zoom in on the first kick. Is the grid line on its front edge?
+- Open grid edit mode.
+- Shift the whole grid left or right until it sits on the kick.
+- Set the bar's first beat so bar and phrase markers line up with the music.
+- Play through the track and check the grid stays on the kicks to the end.
+- If it drifts partway through, reset the grid from the first wrong beat.
+tip: Use the metronome in grid edit mode. If the click and the kick flam (sound like two hits), the grid is off.
+check:
+- Spot an incorrect beat grid and fix it.
+- Set the first beat of the bar correctly.
+
+## MR-R03 | Structural markers
+> Marking a track's sections before a set shows the structure at a glance and makes every transition easier.
+Use memory cues or hot cues as markers. Many DJs keep a simple system, such as:
+dg: hotcues | One simple marking system: A for the first beat, then each section.
+Newer versions of rekordbox can also analyse a track's phrases and colour them on the waveform. Use it as a guide, but check by ear.
+tip: Ask students to choose one marking system and use it on every track. A consistent system means they can read any track instantly.
+check:
+- Mark the sections of a track with cues before a set.
+
+## MR-R04 | Hot cues, memory cues and loops
+> rekordbox has four ways to save points in a track. Each does a different job.
+table:
+| Feature | What it does | Use it for |
+| Hot cue | Jumps straight to a point and plays from it | Performance: drops, vocal hooks, juggling |
+| Memory cue | Marks a point. Jumping to it doesn't start playback | Markers: intro, breakdown, mix-out point |
+| Saved loop | Stores a loop of a set length on a hot cue or memory cue | Loops you'll use every time, such as a clean outro loop |
+| Active loop | A saved loop that switches on automatically when playback reaches it | Making sure the outro never runs out |
+steps:
+- Load a track and move to the point you want.
+- Set a hot cue from the performance pads, or press memory to save a memory cue.
+- To save a loop, set the loop first, then save it to a hot cue or memory cue.
+- To make a saved loop active, switch on its active setting in the memory list.
+check:
+- Set and use hot cues and memory cues.
+- Save a loop and make it active.
+
+## MR-R05 | rekordbox settings
+> Knowing the settings means students can fix problems and set rekordbox up the way they work.
+table:
+| Area | What it controls | Why it matters |
+| View | Layout, waveform colours, what shows on screen | A clearer screen for each student |
+| Audio | Output device, sample rate, buffer size | Fixes no sound, crackles or delays |
+| Analysis | BPM range, key detection, analysis mode | Better BPM and beat grid results |
+| Controller | Deck, mixer, FX and sampler settings | How the controller behaves |
+| Recording | Where recorded mixes are saved | Finding recordings afterwards |
+tip: If a student hears crackles, increase the buffer size. If there's a delay between pressing a button and hearing it, decrease it.
+check:
+- Find the audio, analysis and recording settings.
+- Fix a basic sound problem using the settings.
+
+## MR-R06 | The harmonic traffic light
+> rekordbox can highlight tracks whose key works with the track you're playing, so harmonic choices take seconds.
+With the feature switched on, rekordbox compares each track in your collection with the master deck and highlights the ones in compatible keys, usually in green. It turns MR-K15 into a quick visual check during a set.
+steps:
+- Load and play a track so it's the master deck.
+- Turn on key matching in the browser (the switch's name and position depend on the rekordbox version).
+- Look for highlighted tracks in your collection or playlist.
+- Preview one in your headphones before you commit.
+warn: The highlight is a guide, not a rule. Software sometimes detects the wrong key. Always check by ear.
+check:
+- Switch on key matching and use it to choose a compatible track.

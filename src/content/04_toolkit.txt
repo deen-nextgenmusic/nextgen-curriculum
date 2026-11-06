@@ -1,0 +1,96 @@
+@title: Tutor toolkit
+@navtitle: Tutor toolkit
+@eyebrow: For every stage
+@lead: Assessment, games, safety and the words students need. Come back here whenever you need them.
+
+== -
+## x-levelup | Level-up assessment
+> A student levels up when you score every strand at 3 ("Secure") or above during the stage's check.
+table:
+| Score | Label | What it looks like |
+| 1 | Not yet | Needs your help to do it |
+| 2 | Getting there | Does it sometimes, with noticeable mistakes |
+| 3 | Secure | Does it reliably, with only small slips |
+| 4 | Confident | Does it easily, and makes their own choices with it |
+h: The six strands
+table:
+| Strand | What you're looking for |
+| Timing | Counting, phrasing, beatmatching |
+| Mix control | Gain, levels, EQ, filters |
+| Transitions | Choosing and executing the right transition |
+| Performance techniques | Cues, loops, scratching, juggling, effects |
+| Selection and sets | Choosing tracks, energy, reading the crowd |
+| Knowledge and prep | Genres, harmony, rekordbox preparation |
+h: Running the check
+steps:
+- Run it in a normal lesson when you judge the student ready. There's no fixed date and no failing: "not yet" just means more practice.
+- Use the check described at the start of each stage, and score each strand.
+- Tell the student their scores and one specific thing to work on, even if they've passed.
+- Send the result to the office so it can be recorded and a certificate issued.
+h: Certificates
+Students who pass receive a NextGen certificate for that stage, presented at a showcase where possible. Certificates must not use the words "grade", "accredited" or "exam".
+warn: Only record audio or video of a check with prior permission, following NextGen's safeguarding guidance. Your scores and notes are the standard evidence.
+
+## x-games | Games and challenges
+> Short games turn practice into play. Use one in the warm-up slot or as the end-of-lesson challenge.
+table:
+| Game | Skill | How it works | Stage |
+| Find the One | Timing | Start a track at random. The student claps on the next "one" within four bars. | Warm-Up |
+| Phrase Spotter | Timing | The student calls "change" just before each new phrase. Count the hits. | Warm-Up |
+| Drift Detective | Timing | You nudge one deck. The student says "ahead" or "behind", then fixes it. | Warm-Up |
+| Name That Part | Knowledge | The student taps along to the kick, then the clap, then the hats. | Warm-Up |
+| Energy Line-Up | Selection | Rank five tracks 1 to 5 for energy and justify one choice. | Warm-Up |
+| Hook Swap | Transitions | Bring each hip hop track in on its hook, on the phrase, with no vocal clash. | Warm-Up |
+| Call the Beat | Timing | You call a bar and beat. The student claps exactly there. | Main Room |
+| Signal Spotter | Timing | Name the signal at each phrase change: fill, riser, dropped beat or crash. | Main Room |
+| Screen Off | Timing | Cover the displays and beatmatch two tracks of unknown tempo. | Main Room |
+| Crowd Cards | Selection | Flip a crowd card. The student picks the next track and explains why. | Main Room |
+| Loop Rescue | Performance | Save a mix by looping the outgoing track before it ends. | Main Room |
+| Scratch Copycat | Performance | Copy a one-bar scratch pattern, then swap roles. | Main Room |
+| Name That Machine | Knowledge | Name the source of an 808 kick, a 909 clap or a sampled break. | Headliner |
+| Tempo Ladder | Timing | Get from about 120 to 170 BPM in as few clean transitions as possible. | Headliner |
+| Showcase Run-Through | Performing | Play the full set to the group. Feedback: two strengths and one thing to work on. | Headliner |
+tip: Got a game that works? Send it to the office with its name, the skill it builds and how it works, and we'll add it to the next version.
+
+## x-safety | Safety and good practice
+> These apply in every lesson, at every stage.
+- **Hearing:** keep headphone and speaker volume moderate, take breaks, and teach one-ear monitoring. Explain hearing loss and tinnitus, and why earplugs matter at gigs and festivals.
+- **Levels:** meters never in the red. Distortion damages speakers and sounds poor.
+- **Kit:** faders down before powering on, speakers on last and off first. Keep drinks well away from the decks, and coil cables safely.
+- **Music sources:** bought downloads or a DJ streaming service, never files ripped from video sites.
+- **Age-appropriate music:** use clean versions in school, and check lyrics before a track is played to a group or at a showcase.
+- **Safeguarding:** follow NextGen's safeguarding policy at all times. Don't contact students privately or connect with them on personal social media. Parent communication goes through the office, and lessons are only recorded with prior permission.
+pic: stall | Workshops and showcases follow the same rules as weekly lessons.
+
+## x-kit | Kit and software
+> NextGen's standard setup is the DDJ-FLX2 controller with rekordbox, but every skill in this handbook works on any setup.
+The skills transfer directly to other controllers, CDJs, turntables and software such as Serato or djay. Teach the skill first, then show where it sits on the student's setup.
+Software features depend on the version and the student's subscription, so check before promising a feature. For home equipment questions, point families to the office for NextGen's current recommendations rather than suggesting specific products or prices.
+
+## x-glossary | Glossary
+table:
+| Term | Meaning |
+| Acapella | A vocal on its own, with no music |
+| Bar | A group of beats, usually four in dance music |
+| Beat grid | The markers software places on each beat of a track |
+| Beatmatching | Getting two tracks to the same tempo, lined up beat for beat |
+| BPM | Beats per minute: the speed of a track |
+| Breakdown | A section where the drums drop out |
+| Camelot wheel | A numbered chart showing which keys sound good together |
+| Clipping | Distortion caused by a signal that's too loud |
+| Crossfader | The horizontal fader that blends between decks |
+| Cue point | A saved starting point in a track |
+| Drop | The moment a track hits full energy |
+| EQ | Controls that turn the low, mid and high frequencies up or down |
+| Filter | Removes frequencies above or below a set point |
+| Gain or trim | The input level of a channel, set before the fader |
+| Hot cue | A saved point you can jump to instantly with a pad |
+| Key | The set of notes a track is built on |
+| Loop | A section of a track repeated continuously |
+| Phrase | A group of bars, often 8 or 16, after which the music changes |
+| Quantise | Snaps cues and loops to the nearest beat |
+| Reload | Spinning a track back and starting it again, also called a rewind |
+| Slip mode | Keeps the track running silently in time while you loop or scratch |
+| Stems | Separate layers of a track: vocals, drums, bass, melody |
+| Transient | The sharp attack at the start of a sound |
+| Transition | Moving from one track to the next |

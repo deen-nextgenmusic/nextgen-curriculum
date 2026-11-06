@@ -1,0 +1,673 @@
+@title: Warm-Up
+@navtitle: Warm-Up
+@short: Warm-Up
+@title_html: The <em>Warm-Up</em>
+@pic: hands
+@lead: A complete beginner learns to hear the beat, keep levels clean and mix three tracks together by ear. By the end they can play a short, tidy mix and explain what they're doing.
+@check: A 5-minute mix of three tracks of similar tempo, beatmatched by ear, with at least one blend and one cut on the phrase. No bass clashes, no red meters. Then three quick listening questions, such as "Where does the next phrase start?" and "What genre is this?"
+
+== Knowledge
+
+## WU-K01 | Pulse
+> The pulse is the steady beat you tap your foot to. Every other DJ skill sits on top of it.
+Dance music almost always has four beats in each bar. The first beat of the bar, "the one", is the most important: phrases start on it, drops land on it, and transitions should start on it.
+Students don't need to see the beat to feel it. Get them clapping and counting before they touch the decks, then keep coming back to it in every lesson.
+dg: pulse | Four bars of four beats. Beat 1 of each bar is "the one".
+h: What students practise at Warm-Up
+- Clap on every beat in pop, house and hip hop.
+- Clap only on beats 2 and 4 in house (where the clap or snare sits).
+- Clap only on the one in grime, where the drums are less regular.
+game: Find the One | Start a track at a random point. The student counts out loud and claps on the next "one" within four bars. Score a point for each hit.
+teach:
+- Play a house track and clap on every beat with the student.
+- Count "1-2-3-4" out loud, stressing the 1.
+- Switch to clapping only on 2 and 4, then only on the 1.
+- Repeat with a hip hop track, then a grime track.
+check:
+- Clap in time with the pulse of house, hip hop and pop tracks.
+- Find "the one" within four bars when a track is started at random.
+- Clap on 2 and 4 in a house track.
+
+## WU-K02 | Beats, bars and phrases
+> Beats make bars, bars make phrases, and phrases make sections. DJs count in phrases.
+A **beat** is one pulse. A **bar** is four beats. A **phrase** is a group of bars, usually 8 or 16 in dance music, often 4 or 8 in hip hop. After each phrase, something changes: a new sound comes in, a drum fill plays, or the track moves into a new section.
+Counting phrases is what lets a DJ start the next track at exactly the right moment. If both tracks change at the same time, the mix sounds planned. If they don't, it sounds messy even when the beats are matched.
+dg: phrase | The hierarchy DJs count in. Most club tracks change every 8 or 16 bars.
+tip: Teach students to count bars on their fingers: one finger per bar, so after eight bars their hand is "full" and a change is due.
+teach:
+- Count beats in a bar together: "1-2-3-4, 2-2-3-4, 3-2-3-4..."
+- Ask the student to say "change" when they hear something new. Show that it falls after 8 or 16 bars.
+- Look at the waveform to confirm, but make the ear decide first.
+check:
+- Explain what a beat, a bar and a phrase are.
+- Count bars out loud through a phrase without losing their place.
+- Predict when the next change will come.
+
+## WU-K03 | Headphones
+> Headphones let a DJ hear the next track before the crowd does. Learning to use them well is half of beatmatching.
+DJ headphones are closed-back, so outside noise is blocked, and most have cups that swivel so the DJ can listen with one ear. The usual technique is **one ear on, one ear off**: the covered ear hears the next track, the open ear hears the speakers.
+Three controls matter. The **CUE** buttons choose which deck goes to the headphones. The **headphone level** sets how loud they are. The **headphone mix** (or cue/master) knob blends between the cued track and what the crowd hears.
+dg: headphones | The crowd hears the master. Only the DJ hears the cue.
+warn: Set the headphone level before pressing play, and keep it moderate. Students often turn headphones up to hear over the speakers, and that's when ears get damaged. Turn the room speakers down instead.
+teach:
+- Show how to wear them with one ear on and one ear off, and how to swap sides.
+- Press CUE on the deck that isn't playing and show that only the student hears it.
+- Turn the headphone mix fully to cue, then fully to master, then to the middle.
+- Set a safe headphone level together and explain why.
+check:
+- Choose which deck they hear in their headphones.
+- Use one-ear monitoring comfortably.
+- Set a safe headphone volume without being told.
+
+## WU-K04 | Harmonic mixing: first steps
+> Every melodic track is written in a key. Two tracks in keys that clash will sound wrong together, even if the beats are perfect.
+A key is the family of notes a track's melody, chords and bassline are built from. When two tracks share most of their notes, they blend smoothly. When they don't, the mix sounds sour.
+rekordbox works out the key of each track when it analyses it. Most DJs use the **Camelot** system, which gives each key a number from 1 to 12 and a letter: **A** for minor keys, **B** for major. Neighbouring numbers sound good together.
+dg: camelot 8 | The Camelot wheel. From 8A, the safe moves are one step either way (7A, 9A) or straight across (8B).
+h: The simple rule for Warm-Up
+Stay on the same number, move one number up or down, or swap between A and B on the same number. That covers most good-sounding mixes.
+tip: Don't let key rules slow down beginners. At Warm-Up, play two clashing tracks and two matching ones so students hear the difference, then move on. It becomes a proper skill at Main Room (MR-K15).
+teach:
+- Play two tracks with clashing keys over each other. Ask how it sounds.
+- Play two tracks with matching keys. Ask again.
+- Show where rekordbox displays the key and how the Camelot number works.
+check:
+- Hear when two melodic tracks clash.
+- Find a track's key in rekordbox.
+- Pick a matching track using the same or neighbouring Camelot number.
+
+## WU-K05 | The cue button
+> The cue button marks where a track will start and lets you jump back there instantly. It's how every transition begins.
+On most decks and controllers, the CUE button does three things, depending on what the deck is doing:
+- **Paused:** pressing CUE saves the current position as the cue point.
+- **Playing:** pressing CUE jumps back to the cue point and stops.
+- **At the cue point:** holding CUE plays the track for as long as it's held. Letting go jumps back to the cue point.
+That last behaviour is how DJs "stutter" the start of a track in time with the music, then press PLAY to let it run.
+h: Cueing up a track
+1. Load the track and find the first beat by turning the jog wheel.
+2. With the deck paused, press CUE to save that point.
+3. Hold CUE to check it starts on the beat. Let go to jump back.
+4. When the moment comes, press PLAY on the beat.
+warn: Don't confuse the deck CUE button with the headphone CUE button on the mixer. One sets a starting point, the other chooses what's in your headphones.
+teach:
+- Show the three behaviours one at a time.
+- Have the student set a cue on the first kick of a track.
+- Practise starting the track on the one while another track plays.
+check:
+- Set a cue point on the first beat.
+- Return to it instantly.
+- Start the track exactly on the one.
+
+## WU-K06 | Sections of a track
+> Club tracks are built from sections that each last a set number of bars. Knowing them tells you when to mix in and out.
+Most dance tracks follow a familiar pattern. The **intro** is stripped back so DJs can mix into it. A **build-up** adds tension. The **drop** (or chorus) is the high point. A **breakdown** removes the drums for a moment of calm. Then a second build and drop, and finally an **outro** for mixing out.
+Songs with vocals often use **verse, pre-chorus, chorus** instead. The idea is the same: sections change on the phrase.
+dg: sections | A typical club track. Intros and outros are where most mixing happens.
+tutor: In lessons we use La Danza as the class example. Play it and have students call out each section as it arrives, then check against the waveform.
+teach:
+- Play a whole track and have the student name each section as it arrives.
+- Count the bars in each section together.
+- Point out where the intro and outro give space to mix.
+check:
+- Name the main sections of a club track and a song.
+- Recognise a build-up, drop and breakdown by ear.
+- Say how many bars a section lasts.
+
+## WU-K07 | Components of electronic music
+> Every dance track is built from the same few ingredients. Hearing them separately makes EQ and mixing make sense.
+cards:
+- kick | Kick drum | The low thud you feel in your chest. Every beat in house, looser in hip hop and grime.
+- snare | Snare or clap | A short, sharp crack, usually on beats 2 and 4.
+- hihat | Hi-hat | A tight "tss" closed, a longer sizzle open. Keeps time moving between the beats.
+- bass | Bassline | The low notes that carry the groove, locked to the kick.
+- keys | Melody | The tune you remember: synths, keys, guitars.
+- mic | Vocals | Anything sung, rapped or spoken: verses, choruses, hooks.
+h: Three beats to know
+drums: house | **House:** kick on every beat, clap on 2 and 4, hi-hats on the offbeat.
+drums: hiphop | **Hip hop (boom bap):** kick and snare in a loose, swinging pattern with the snare on 2 and 4.
+drums: grime | **Grime:** sparse, broken kicks with a snare that hits hard, around 140 BPM.
+game: Name That Part | Play eight bars. The student points at the kick, then the clap, then the hats, by tapping along to each one in turn.
+teach:
+- Play a house loop and tap along to just the kick, then just the clap, then just the hats.
+- Compare the house pattern with a hip hop and a grime pattern.
+- Use the EQ to remove the low end and ask what disappeared.
+check:
+- Pick out the kick, snare or clap, hats, bass, melody and vocals by ear.
+- Describe the basic house drum pattern.
+- Hear the difference between house, hip hop and grime rhythms.
+
+## WU-K08 | Setting up and signal flow
+> Sound travels in one direction: from where the music is stored, through the player and mixer, out to the speakers. When something goes wrong, follow that path.
+dg: signal1 | The four stages of signal flow. Every DJ setup, from a phone app to a club, follows this path.
+h: Powering up and down
+Speakers are the last thing on and the first thing off. That avoids a loud pop that can damage them.
+steps:
+- Faders and master level all the way down. Gains at the middle (12 o'clock).
+- Plug in the controller and laptop. Open rekordbox.
+- Turn the controller on, then the speakers last.
+- To finish: faders down, speakers off first, then the controller.
+h: Cables you'll meet
+- **USB:** connects a controller to the laptop, or a USB stick to a player.
+- **RCA (red and white):** carries left and right audio from a controller to speakers. Red goes in the right-hand socket.
+- **XLR and jack:** used by club mixers and powered speakers.
+- **Power:** check the right voltage and never trail cables where people walk.
+teach:
+- Trace the signal path on your setup, pointing at each stage.
+- Have the student power up in the right order.
+- Unplug one cable and ask them to find the fault.
+check:
+- Name the four stages of signal flow.
+- Power the setup up and down safely.
+- Find a simple fault by following the signal path.
+
+## WU-K09 | Equipment functions
+> Every controller has the same core controls, just arranged differently. Learn what each does, and any setup becomes familiar.
+dg: controller | A generic two-deck controller. Every controller has these parts, just in different places.
+table:
+| Control | What it does |
+| Jog wheel | Nudges a track faster or slower to line it up. Touching the top scratches. |
+| Tempo slider | Changes the track's speed as a percentage of its original BPM |
+| Play/pause | Starts and stops the track |
+| Cue | Sets and returns to the cue point (see WU-K05) |
+| Performance pads | Hot cues, loops and samples |
+| Browse and load | Scrolls through music and loads a track onto a deck |
+| Trim (gain) | Sets how loud the track comes into the mixer |
+| EQ: high, mid, low | Turns frequency bands up or down |
+| Filter (colour FX) | Sweeps away lows or highs |
+| Headphone cue | Sends that channel to the headphones |
+| Channel fader | Controls how much of that channel goes to the master |
+| Crossfader | Blends between the left and right decks |
+Also find **master level** (overall volume to the speakers), **headphone level**, **headphone mix**, and **master tempo** or key lock, which keeps a track's pitch the same when you change its speed.
+teach:
+- Go round the controller with the numbered table, one area at a time.
+- Ask the student to find each control without looking at the table.
+- Explain master tempo by changing the tempo with it on and off.
+check:
+- Name and use every control on the diagram.
+- Explain the difference between trim, channel fader and master level.
+
+## WU-K10 | EQ
+> EQ splits a track into low, mid and high frequencies so you can make room for the next track. Its most important job is stopping two basslines clashing.
+Each channel has three EQ knobs. At 12 o'clock they're neutral. Turn left to cut, right to boost. Cutting is far more useful than boosting.
+dg: eq | What lives in each EQ band.
+h: The bass swap
+Two basslines or kick drums playing at once turn muddy and boom through the speakers. So during a blend, only one track should have its low EQ up at any moment. The classic move is to swap them on a phrase: the incoming track's lows come up exactly as the outgoing track's lows go down.
+dg: bassswap | A bass swap on bar 9, the start of a new phrase.
+tip: Teach "EQ to cut, not to boost". If a student wants more bass, the answer is usually less bass in the other track.
+teach:
+- Sweep each EQ band on one track so the student hears what it controls.
+- Blend two tracks with both lows up and listen to the mud.
+- Practise a bass swap on a phrase change.
+check:
+- Explain what the low, mid and high EQ control.
+- Keep only one bassline playing at a time during a blend.
+- Make a clean bass swap on the phrase.
+
+## WU-K11 | Genres at Warm-Up
+> Genres tell you a track's speed, its rhythm and how to mix it. Warm-Up starts with the four most students already know.
+table:
+| Genre | Typical BPM | Where and when | Mixing it |
+| Pop and commercial | 90-130 | Everywhere, all eras | Short intros: use the outro or a clean cut |
+| House | 120-128 | Chicago, 1980s | Long beat intros: perfect for first blends |
+| Hip hop and rap | 85-100 | New York, 1970s | Short and vocal-led: quick blends and cuts |
+| Grime | 138-142 | East London, early 2000s | Hard cuts on the phrase, built for MCs |
+| Afrobeats | 95-115 | Nigeria and Ghana, 2000s on | Blend over percussion, avoid vocals clashing |
+Pop and commercial music isn't one style. It's whatever's in the charts, so it borrows from every genre. Its tracks are short, with verses and choruses rather than long DJ intros.
+tip: Students can play any genre at any stage. This table is about when we teach each genre's history and mixing quirks.
+
+## WU-K12 | House
+> House is the foundation of club music: a steady kick on every beat, made for dancing all night.
+facts:
+- Tempo = 120-128 BPM
+- Born = Chicago, early 1980s
+- Rhythm = Four to the floor
+- Sound = Soulful, repetitive, uplifting
+roots: Disco, Soul and gospel, Synth-pop and electro > House > Acid house, Deep house, UK garage, Tech house, Afro house
+drums: house | Kick on every beat, clap on 2 and 4, open hats on the offbeat.
+h: Brief history
+House grew out of disco in Chicago. After the 1979 backlash killed disco on the radio, Chicago's Black and gay club scene kept dancing to it. At a club called the Warehouse, resident DJ Frankie Knuckles mixed disco, soul and electronic records into long, unbroken sets, re-editing tracks and adding drum machine beats. Record shops started labelling that sound "Warehouse music", soon shortened to "house".
+Local producers began making their own tracks on cheap drum machines such as the Roland TR-808 and TR-909. Jesse Saunders' "On and On" (1984) is often called the first house record. Ron Hardy at the Music Box played a rawer, wilder version, and in 1987 Phuture's "Acid Tracks" used the squelching Roland TB-303 to invent acid house.
+By 1988 house had crossed to the UK, where acid house fuelled the rave scene and the "Second Summer of Love". Today it splits into many styles, including deep house, tech house, Afro house and garage-influenced house, and it's back in the charts.
+timeline:
+- 1977 = Frankie Knuckles starts at the Warehouse, Chicago
+- 1984 = "On and On", often called the first house record
+- 1987 = Phuture's "Acid Tracks" invents acid house
+- 1988 = UK "Second Summer of Love" and raves
+- 2020s = House returns to the mainstream
+h: What to listen for
+- A four-to-the-floor kick at 120-128 BPM that never lets up.
+- Claps or snares on 2 and 4, with open hi-hats on the offbeat.
+- Soulful or gospel-style vocals, piano chords and short repeating loops.
+- Long intros and outros built for DJs to mix over.
+- A positive, uplifting mood, often in major keys.
+h: Artists who shaped it
+people:
+- Frankie Knuckles = "The Godfather of House", resident at the Warehouse
+- Ron Hardy = Music Box DJ known for raw, high-energy edits
+- Marshall Jefferson = Made "Move Your Body", the house anthem
+- Larry Heard (Mr. Fingers) = Created deep house with "Can You Feel It"
+- Phuture = Discovered the acid sound of the TB-303
+- Masters at Work = Louie Vega and Kenny Dope, who shaped New York house
+h: Key artists now
+people:
+- Fred again.. = Emotional, vocal-sampling house that fills arenas
+- Peggy Gou = Korean-born DJ with chart-topping house hits
+- Honey Dijon = Chicago-born DJ keeping the original sound alive
+- Disclosure = UK duo who brought house back to the charts in the 2010s
+listen:
+- Frankie Knuckles & Jamie Principle - Your Love (1987)
+- Mr. Fingers - Can You Feel It (1986)
+- Marshall Jefferson - Move Your Body (1986)
+- Robin S - Show Me Love (1993)
+- Daft Punk - One More Time (2000)
+- Fred again.. - Delilah (pull me out of this) (2022)
+- Peggy Gou - (It Goes Like) Nanana (2023)
+check:
+- Recognise house by its four-to-the-floor beat.
+- Tell the story of where house came from in two or three sentences.
+- Name two pioneers and two current house artists.
+- Mix two house tracks with a long blend.
+
+## WU-K13 | Hip hop and rap
+> Hip hop began with a DJ. Its first records were built from looped drum breaks, and the DJ was the star before the MC.
+facts:
+- Tempo = 85-100 BPM
+- Born = The Bronx, New York, 1973
+- Rhythm = Swung "boom bap", snare on 2 and 4
+- Sound = Vocal-led, sampled, punchy
+roots: Funk and soul breaks, Jamaican sound systems, Disco > Hip hop > Boom bap, Gangsta rap, Trap, UK rap, Drill
+drums: hiphop | A boom bap pattern. Modern trap-influenced hip hop adds fast, rolling hi-hats.
+h: Brief history
+In August 1973, DJ Kool Herc, who had grown up around Jamaica's sound system culture, threw a party in the Bronx. He noticed dancers went wild for the short instrumental "breaks" in funk records, so he used two copies of the same record to repeat the break again and again. Grandmaster Flash refined the technique, Grand Wizzard Theodore is credited with discovering the scratch, and MCs began rapping over the beats. Afrika Bambaataa's Zulu Nation used the parties to steer young people away from gangs.
+Hip hop grew from four elements: DJing, MCing, breakdancing and graffiti. Run-DMC took it mainstream in the 1980s. The 1990s "golden era" brought sampling and lyricism on both coasts, from Nas and the Notorious B.I.G. in New York to Dr. Dre and Snoop Dogg in Los Angeles. Since the 2010s, trap production and streaming have made hip hop the world's most listened-to genre.
+UK rap has its own sound and stars. Dave won the Mercury Prize in 2019 and Little Simz in 2022.
+timeline:
+- 1973 = Kool Herc's first block party
+- 1979 = "Rapper's Delight" becomes a hit
+- 1986 = Run-DMC and Aerosmith's "Walk This Way"
+- 1990s = Golden era of sampling and lyricism
+- 2019 = Dave wins the Mercury Prize
+h: What to listen for
+- Rapped vocals telling stories over a beat.
+- Beats built from samples of funk, soul and jazz records.
+- Boom bap drums: a swung kick and a hard snare on 2 and 4.
+- Modern tracks borrow trap's 808 bass and rolling hi-hats.
+- Scratches and DJ cuts on classic tracks.
+h: Artists who shaped it
+people:
+- DJ Kool Herc = Looped the breaks and started it all
+- Grandmaster Flash = Perfected cutting between records
+- Afrika Bambaataa = Zulu Nation and the electro hit "Planet Rock"
+- Run-DMC = Took hip hop into the mainstream
+- Dr. Dre = Defined the West Coast sound as a producer
+- J Dilla = Loose, off-grid drums that changed beat-making
+h: Key artists now
+people:
+- Kendrick Lamar = Pulitzer Prize-winning US rapper
+- Dave = Mercury Prize-winning South London rapper
+- Little Simz = Mercury Prize-winning North London rapper
+- Central Cee = UK rapper with global streaming hits
+listen:
+- The Sugarhill Gang - Rapper's Delight (1979)
+- Grandmaster Flash & the Furious Five - The Message (1982)
+- Run-DMC - Walk This Way (1986)
+- Nas - N.Y. State of Mind (1994)
+- The Notorious B.I.G. - Juicy (1994)
+- Kendrick Lamar - HUMBLE. (2017)
+- Dave ft. Fredo - Funky Friday (2018)
+check:
+- Explain how DJs created hip hop.
+- Recognise a boom bap beat.
+- Name a hip hop pioneer, a UK artist and a US artist.
+
+## WU-K14 | Grime
+> Grime is London's own sound: fast, raw and built around MCs, born on pirate radio in the early 2000s.
+facts:
+- Tempo = Around 140 BPM
+- Born = East London, early 2000s
+- Rhythm = Sparse, broken, syncopated
+- Sound = Dark synths, heavy bass, MCs
+roots: UK garage, Jungle, Dancehall, Hip hop > Grime > UK drill, UK rap, Afroswing
+drums: grime | Grime beats are sparse and irregular. The snare often lands hard on beat 3.
+h: Brief history
+Grime came out of UK garage when a younger generation of MCs in Bow and the surrounding East London estates wanted something harder. Wiley, Dizzee Rascal and crews such as Roll Deep made instrumentals at about 140 BPM on basic software such as FruityLoops, and played them on pirate radio stations like Rinse FM, at raves and in recorded MC clashes. Dizzee Rascal's album *Boy in da Corner* won the Mercury Prize in 2003.
+A second wave in the mid-2010s, led by Skepta, Stormzy and JME, took grime to the top of the charts. Skepta's *Konnichiwa* won the Mercury Prize in 2016, and in 2019 Stormzy headlined Glastonbury. UK drill later grew from the same scene.
+timeline:
+- 2002 = Wiley's "Eskimo" defines the sound
+- 2003 = *Boy in da Corner* wins the Mercury Prize
+- 2004 = Lethal B's "Pow! (Forward)" takes over clubs
+- 2016 = Skepta's *Konnichiwa* wins the Mercury Prize
+- 2019 = Stormzy headlines Glastonbury
+h: What to listen for
+- A tempo of about 140 BPM, with lots of space in the beat.
+- Sparse, broken drums rather than a steady kick.
+- Cold, square-wave synths and heavy basslines.
+- Fast MCs, usually in 8- and 16-bar verses.
+- Built for pirate radio, clashes and reloads.
+h: The grime DJ
+Grime DJs work with MCs. They cut tracks in hard on the phrase, and when a tune goes off they **reload** it (also called a rewind or wheel-up): spin it back and start it again. Short mixes and quick changes keep the energy high.
+h: Artists who shaped it
+people:
+- Wiley = "The Godfather of Grime" and his "eskibeat" sound
+- Dizzee Rascal = First grime album to win the Mercury Prize
+- Roll Deep = The crew that launched Wiley, Skepta and more
+- Kano = Early teen star who became one of its best lyricists
+- Lethal B = "Pow!", the anthem that got banned from clubs
+- D Double E = One of the most copied MC styles
+h: Key artists now
+people:
+- Skepta = Led the second wave, Mercury Prize winner
+- Stormzy = Glastonbury headliner and chart-topping album artist
+- JME = Boy Better Know co-founder and independent pioneer
+- Novelist = Lewisham MC and producer keeping it raw
+listen:
+- Wiley - Eskimo (2002)
+- Dizzee Rascal - I Luv U (2003)
+- Wiley - Wot Do U Call It? (2004)
+- Lethal B - Pow! (Forward) (2004)
+- Skepta - Shutdown (2015)
+- Stormzy - Shut Up (2015)
+check:
+- Recognise grime by its tempo and sparse beats.
+- Explain where grime came from and name two pioneers.
+- Describe what a reload is.
+
+## WU-K15 | Afrobeats | new
+> Afrobeats is the sound of modern Nigeria and Ghana: bouncing percussion and melodic vocals, and one of the biggest genres in UK schools.
+facts:
+- Tempo = 95-115 BPM
+- Born = Lagos and Accra, 2000s
+- Rhythm = Syncopated, rolling percussion
+- Sound = Melodic vocals, warm grooves
+roots: Highlife, Fela Kuti's Afrobeat, Hip hop and R&B, Dancehall > Afrobeats > Afroswing, Alté, Afrobeats-amapiano crossovers
+drums: afrobeats | Afrobeats kicks skip across the bar while shakers keep everything moving.
+h: Brief history
+Afrobeats mixes West African highlife and percussion with hip hop, R&B and dancehall. Don't confuse it with **Afrobeat** (no "s"), the 1970s style of horns, funk and politics created in Lagos by Fela Kuti.
+In the 2000s, Nigerian pop stars such as 2Face Idibia and D'banj built a new sound that spread across Africa and the diaspora. UK DJs, including DJ Abrantee, helped popularise the name "Afrobeats" around 2011, and D'banj's "Oliver Twist" reached the UK top 10. Then Wizkid featured on Drake's "One Dance" (2016), and the sound went global. Burna Boy won a Grammy in 2021, and Rema's "Calm Down" became one of the most streamed songs in the world.
+In the UK it shaped **Afroswing**, a mix of Afrobeats and UK rap from artists such as J Hus and NSG.
+timeline:
+- 1970s = Fela Kuti creates Afrobeat in Lagos
+- 2004 = 2Face Idibia's "African Queen"
+- 2011 = The name "Afrobeats" catches on in the UK
+- 2016 = Wizkid on Drake's "One Dance"
+- 2021 = Burna Boy wins a Grammy
+h: What to listen for
+- Mid-tempo grooves around 95-115 BPM.
+- Syncopated kicks that skip across the bar, with constant shakers.
+- Sung, melodic vocals in English, Pidgin, Yoruba, Twi and more.
+- A relaxed, danceable feel rather than big drops.
+- Short intros, often starting straight on the vocal.
+h: Artists who shaped it
+people:
+- Fela Kuti = Created Afrobeat, the music it grew from
+- 2Face Idibia = "African Queen", an early pan-African hit
+- D'banj = "Oliver Twist", an early UK chart breakthrough
+- P-Square = Twin brothers who made Afropop huge across Africa
+- Wizkid = Took the sound global with "One Dance"
+- DJ Abrantee = UK DJ who helped popularise the name
+h: Key artists now
+people:
+- Burna Boy = Grammy winner and stadium headliner
+- Tems = Grammy-winning singer and songwriter
+- Rema = "Calm Down", one of the world's biggest songs
+- Asake = Blends Afrobeats with amapiano and Yoruba chants
+listen:
+- Fela Kuti - Water No Get Enemy (1975)
+- 2Face Idibia - African Queen (2004)
+- D'banj - Oliver Twist (2011)
+- Wizkid - Ojuelegba (2014)
+- Drake ft. Wizkid & Kyla - One Dance (2016)
+- Wizkid ft. Tems - Essence (2020)
+- Rema & Selena Gomez - Calm Down (2022)
+tip: Afrobeats tracks often start with vocals and have short intros. Mix on percussion-only sections and avoid laying two vocals on top of each other.
+check:
+- Tell Afrobeats from Afrobeat.
+- Name two artists who took Afrobeats global.
+- Mix two Afrobeats tracks without clashing vocals.
+
+## WU-K16 | Where to transition
+> Start the next track at the beginning of a phrase, and finish the old one before its next big moment. That one rule fixes most beginner mixes.
+- **Good:** at the end of a drop or chorus, so the energy has been released.
+- **Good:** in the outro, so the crowd has heard the whole track.
+- **Good:** at the start of any phrase, so the two tracks change together.
+- **Avoid:** halfway through a section, especially a chorus.
+- **Avoid:** during a build-up. The crowd is waiting for a drop, and a new track confuses that.
+- **Avoid:** changing tracks too quickly. Let the crowd hear a track properly.
+dg: sections | Mixing in over the intro and out over the outro keeps both tracks' best parts.
+game: Phrase Spotter | Play a track. The student calls "change" just before each new phrase. Count the hits out of ten.
+check:
+- Choose a sensible point to start the next track.
+- Explain why mixing during a build-up feels wrong.
+
+## WU-K17 | Improvisation
+> Improvising means deciding what to play next while you're playing. Most DJs prepare some of a set and improvise the rest.
+The most common improvisation is **track selection**. Instead of planning every track, the DJ listens to how the last one went down and chooses the next to suit. That lets the set respond to the room.
+Preparation has its place too: a planned run of tracks can be rehearsed until the transitions are perfect. A good set uses both.
+table:
+| Preparation gives you | Improvisation gives you |
+| Tight, rehearsed transitions | A set that responds to the crowd |
+| Confidence under pressure | Surprise and personality |
+| Tricky mixes that need practice | Freedom to change direction |
+tip: Give beginners a short pool of six tracks that all mix together. They choose the order live, so improvisation feels safe.
+check:
+- Explain the difference between preparing and improvising.
+- Choose the next track live from a small pool.
+
+## WU-K18 | Structuring a mix
+> A mix is a journey, and energy is what moves it. Every track has an energy level, and the order you play them in shapes how the set feels.
+A **mix** is a run of tracks blended into one continuous piece. **Energy** is how much lift a track gives the listener: tempo, how full the sound is, the drums, the mood. It depends on what came before, too: a mid-energy track feels huge after a quiet one.
+At Warm-Up, students rate each track from 1 (chilled) to 5 (peak), then plan an order that rises and falls on purpose.
+dg: energy build | A simple build: start low, climb steadily, finish at the peak.
+game: Energy Line-Up | Give the student five tracks. They rank them 1 to 5 for energy, then justify one choice out loud.
+check:
+- Say which of two tracks has more energy, and why.
+- Rate tracks 1 to 5 and plan a three-track mix that builds.
+
+## WU-K19 | Finding music and curation
+> A DJ is only as good as their music. Curation means finding tracks you love, and knowing why they belong together.
+Every track is a lead to more music. From one track you know its **artist**, its **label**, its **genre** and its **remixers**. Each opens up more: the artist's other releases, the label's catalogue, charts in that genre, and mixes by DJs who play it.
+h: Where to look
+- **DJ stores and charts:** Beatport, Bandcamp, Traxsource and Juno Download sort music by genre and publish charts.
+- **Mixes and radio:** BBC Radio 1 specialist shows, SoundCloud and Mixcloud. Use the tracklist or a recognition app to identify songs.
+- **Labels and artists:** follow them on streaming platforms and social media for new releases.
+h: Quality matters
+Big speakers make bad files sound terrible. Use **WAV, AIFF, FLAC or 320kbps MP3**. Avoid anything below 192kbps, and never use files ripped from YouTube or other video sites.
+warn: In school, check lyrics and use clean versions. A track that's fine at home might not be fine in an assembly.
+check:
+- Find new music starting from one track they like.
+- Explain why file quality matters.
+- Name two legal places to buy or stream music for DJing.
+
+## WU-K20 | Online stores and rekordbox
+> Students need a legal, reliable way to get music into rekordbox. This lesson goes from buying a track to having it ready on a deck.
+h: Buying and importing
+steps:
+- Buy the track from a DJ store and download the highest quality file offered.
+- Save it in one music folder, not scattered across Downloads.
+- In rekordbox, import the file or folder, or drag it into the collection.
+- Wait for rekordbox to analyse it. That finds the BPM, key and beat grid.
+- Add it to a playlist so it's easy to find in a lesson.
+h: Streaming services
+rekordbox can also stream tracks directly from services such as Beatport, Beatsource, SoundCloud and TIDAL with the right subscription. Streaming needs a reliable internet connection, and the DJ doesn't own the music. We cover the pros and cons at Headliner (HL-R01).
+tip: Agree with families what students can buy, and point them to the office for current recommendations. Never share your own purchased music with students.
+teach:
+- Walk through buying, downloading and importing one track.
+- Show where rekordbox stores the analysed BPM and key.
+- Make a playlist for the student's next lesson.
+check:
+- Import a track and confirm it's been analysed.
+- Explain the difference between owning and streaming music.
+
+== Skills
+
+## WU-S01 | Intro types
+> Not every track starts with a beat. Spotting the type of intro tells you how to mix the track in.
+dg: introtypes | Three common intros.
+table:
+| Intro | What it sounds like | How to mix it |
+| Beat intro | Drums from the first bar, often for 8 to 32 bars | The easiest. Cue the first beat and beatmatch as normal. |
+| Beatless or FX intro | Pads, noise or effects with no drums | Hard to beatmatch. Cue where the beat starts, or line up any rhythmic sound. |
+| Acapella intro | Just a voice | Line up the vocal with the other track's beat, or cue the track after the vocal. |
+check:
+- Recognise each intro type.
+- Choose a sensible cue point for each.
+
+## WU-S02 | Beatmatching
+> Beatmatching makes two tracks play at the same speed with their beats lined up, so they sound like one. It's the core skill of DJing.
+Two things have to be right. The **tempo** must match, or the beats drift apart. And the beats must be **lined up**, or they clatter even at the same tempo. At Warm-Up, students can read the BPM numbers to set the tempo, but the lining up must be done by ear.
+dg: beatalign | What students are listening for. Out of line sounds like galloping. Drifting sounds fine at first, then falls apart.
+h: The Warm-Up beatmatching routine
+steps:
+- Play track A. Load track B and set its tempo to match A's BPM.
+- Cue B on its first beat.
+- Count A's bars in your head and press PLAY on B on the one at the start of a phrase.
+- Listen in the headphones. Is B ahead (rushing) or behind (dragging)?
+- Nudge B's jog wheel by its outer edge: spin forward if behind, slow it if ahead.
+- When the kicks sound like one kick, bring B in.
+tip: If the beats keep drifting after you've lined them up, the tempo is wrong. The jog wheel only nudges. The tempo slider fixes drift.
+game: Drift Detective | You nudge one deck out of line. The student says "ahead" or "behind", then fixes it.
+teach:
+- Use two copies of the same track first, so only alignment matters.
+- Then two different house tracks with the same BPM.
+- Cover the waveforms for the last few tries.
+check:
+- Start a track on the one, at the start of a phrase.
+- Hear whether a track is ahead or behind.
+- Line up two tracks by ear and keep them together for a phrase.
+
+## WU-S03 | Cue points
+> A good cue point is exactly on the first beat you want to hear. If it's a fraction early or late, every mix starts badly.
+Zoom in on the waveform and set the cue on the **front edge** of the first kick, not the middle of it. Then check by ear: hold CUE and listen for a clean, instant thud.
+Pick the cue point for the job:
+- **First beat of the intro:** for a long blend.
+- **First beat of the drop:** for a cut straight into the big moment.
+- **After an acapella or FX intro:** when the start has no beat to match.
+check:
+- Set a cue exactly on the first beat.
+- Choose a cue point that suits the transition they're planning.
+
+## WU-S04 | Transitions
+> A transition is how you get from one track to the next. Warm-Up teaches the two families: cuts and blends.
+h: Cuts
+A **straight cut** switches from the old track to the new one instantly, on the first beat of a phrase. It's quick, punchy and common in hip hop and grime.
+dg: cut straight | A straight cut lands exactly on a phrase.
+A **beat cut** teases the new track first: flick the crossfader or fader in on single beats, then cut fully across on the phrase. It builds excitement for the next tune.
+dg: cut beatcut | Short flicks tease the new track before the full cut.
+h: Blends
+A **blend** plays both tracks together for a while. Warm-Up students learn blends over one, two and four phrases.
+dg: blend 1 0 0 | One-phrase blend: bring the new track in over one phrase, swap the bass, cut the old track at the next phrase.
+dg: blend 1 0 1 | Two-phrase blend: one phrase in, one phrase out.
+dg: blend 1 2 1 | Four-phrase blend: one in, two together, one out. The long blend for house and techno.
+tip: Ask students to say the plan before they start: "I'll bring it in over one phrase and swap the bass at bar 9." Planning out loud fixes most timing mistakes.
+teach:
+- Start with straight cuts on the phrase until timing is reliable.
+- Add the beat cut for fun.
+- Move to one-phrase blends with a bass swap, then two and four.
+check:
+- Make a straight cut and a beat cut on the phrase.
+- Make one-, two- and four-phrase blends with a clean bass swap.
+
+## WU-S05 | Baby scratch
+> The baby scratch is the first scratch everyone learns: push the record forward and pull it back, in time, with the fader open.
+Use the hand on the jog wheel only. Rest your fingers lightly on the top of the wheel at about 9 o'clock with the wrist raised, and move it forward and back over the start of a sound. Every scratch in this handbook builds on this movement.
+pic: jog | Fingertips at 9 o'clock on the jog wheel, wrist raised.
+dg: scratch baby | Scratch notation: the line shows the hand moving the sound forward and back. The green bar shows the fader is open the whole time.
+h: Setting up to scratch
+- Use a long sound, such as a held vocal "ahhh" or a horn note.
+- Set a cue point at the very start of the sound.
+- Set the crossfader curve to sharp (see MR-K05).
+- Play a simple hip hop beat at about 90 BPM on the other deck.
+teach:
+- Push forward on beat 1 and pull back on beat 2, then speed up to two per beat.
+- Keep strokes the same length so the sound is consistent.
+check:
+- Perform a steady baby scratch in time with a beat.
+
+## WU-S06 | Drop cut
+> A drop cut plays a sound at normal speed, then cuts it off with the fader before you pull it back, so the crowd only hears the sound going forward.
+Release the jog wheel so the sample plays, open the fader for one beat, then close it. Bring the sample back to the start while the fader is closed, ready for the next drop.
+dg: scratch dropcut | The sample plays forward with the fader open, then returns in silence.
+teach:
+- Find the start of the sample with the fader closed.
+- Open the fader and release the wheel on the beat.
+- Close the fader on the next beat, then pull back silently.
+check:
+- Drop a sample in time, cutting it cleanly each time.
+
+## WU-S07 | Forward cut
+> The forward cut is a baby scratch with the backward stroke silenced. You only hear the push.
+Push the sound forward with the fader open, close the fader, then pull back. It gives a sharper, cleaner sound than a baby scratch and is the building block for faster cutting scratches later.
+dg: scratch forwardcut | Sound on the push, silence on the pull.
+check:
+- Perform forward cuts on every beat, then on every half beat.
+
+## WU-S08 | Drop scratch
+> A drop scratch lets the sound play forward, then catches it and pulls it back so you hear both directions.
+The fader stays open. Release the wheel to play the sample, catch it, and pull it back to the start in rhythm. It sits between a drop cut and a baby scratch, and works well over slower hip hop beats.
+dg: scratch dropscratch | The sound plays forward, then is pulled back audibly.
+check:
+- Perform drop scratches in time with a beat.
+
+## WU-S09 | Beat juggling: jog wheel loop
+> Beat juggling remixes a beat live by switching between two copies of the same track. The jog wheel loop is the first and simplest juggle.
+Load the same track on both decks. Play a four-beat section on one deck. While it plays, spin the other deck back to the start of the same section, then cut across with the crossfader exactly as the first deck finishes. Repeat, switching sides each time, and the section loops for as long as you can keep up.
+steps:
+- Load the same track on both decks and cue both at the same bar.
+- Play deck A for four beats with the crossfader on A.
+- Cut to deck B on the next beat and let it play.
+- While B plays, spin A back to the start of the section.
+- Cut back to A after four beats. Keep switching.
+tip: Start with an eight-beat section and shorten it as the student gets quicker. This is exactly what Grandmaster Flash was doing in the 1970s, which makes a good story for the lesson.
+check:
+- Loop a four-beat section for at least four repeats in time.
+
+== rekordbox
+
+## WU-R01 | Getting around rekordbox
+> rekordbox is where DJs prepare and play their music. Students need to find their way around it before anything else.
+- **Decks and waveforms:** show each track, where it's playing and what's coming next.
+- **Track info:** title, artist, BPM and key for each loaded track.
+- **Tree view (left):** the collection, playlists and connected devices.
+- **Browser (middle):** the tracks in whatever is selected in the tree view.
+tip: rekordbox's layout changes between versions and modes. Always teach on the version the student will use at home.
+check:
+- Find a track, load it to a deck and read its BPM and key.
+
+## WU-R02 | Music management
+> A tidy library means finding the right track in seconds. A messy one means panic in the middle of a set.
+dg: folders | Folders group playlists by purpose. Playlists hold the tracks.
+- **Playlists** hold tracks for a purpose: a genre, a set, a lesson.
+- **Folders** hold playlists, so the tree view stays short.
+- **File names** should be clear: Artist - Title (Remix).
+steps:
+- Click the + next to Playlists to create one, and name it clearly.
+- Drag tracks in from the collection.
+- Right-click Playlists to create a folder, and drag playlists into it.
+check:
+- Create playlists and folders and keep them organised.
+- Name files clearly and consistently.
+
+== Genre sessions
+
+## WU-G01 | Mixing hip hop
+> Hip hop tracks are short, vocal-heavy and full of character. Mix them quickly, cleanly and with a bit of attitude.
+- **Keep blends short.** Long blends make two sets of vocals clash. Blend for four or eight bars at most.
+- **Cut on the phrase.** Hip hop phrases are often four or eight bars. Cut on the one at the end of a verse or hook.
+- **Use the intro or hook.** Drop the new track in on its hook for an instant reaction.
+- **Mind the tempo.** Hip hop sits around 85-100 BPM. Bigger jumps sound unnatural.
+- **Add flair.** A baby scratch or quick beat cut on the way in suits the genre.
+game: Hook Swap | Play six hip hop tracks. The student must bring each one in on its hook, cutting on the phrase, without a vocal clash.
+check:
+- Mix hip hop tracks with short blends and clean cuts.
+- Bring a track in on its hook.
+
+## WU-G02 | Mixing grime
+> Grime is mixed fast and hard. The crowd and the MCs want energy, not long blends.
+- **Hard cuts on the phrase.** Grime phrases are usually 8 or 16 bars.
+- **Count in 16s.** MCs often spit 16-bar verses, so the DJ changes tracks between them.
+- **Reload the big tunes.** When a track goes off, stop it with a quick backspin or by pulling the record, and start it again.
+- **Keep it moving.** Play one or two minutes of each track at most.
+warn: Check lyrics carefully. Many grime tracks have explicit versions. Use clean versions in school.
+check:
+- Cut grime tracks cleanly on the phrase.
+- Perform a reload at a sensible moment.

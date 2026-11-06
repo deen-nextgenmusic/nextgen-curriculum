@@ -1,0 +1,42 @@
+@title: Start here
+@navtitle: Start here
+@eyebrow: How this handbook works
+@lead: Read this once before your first lesson. It explains how the stages fit together, how a lesson runs and how students move up.
+
+== -
+## x-about | What this handbook is for
+> One curriculum, taught the same way in every school, so a student can switch tutors without losing a step.
+This handbook covers every topic in NextGen's DJ course across three stages: Warm-Up, Main Room and Headliner. Each topic has a short explanation in plain English, a diagram where a picture helps, the steps to teach it, and what students should be able to do afterwards.
+Every topic has a code, such as **WU-S02** for Warm-Up skill 2 (beatmatching). Use the codes in your lesson notes so the next tutor knows exactly where a student is.
+h: Talking about the course with families and schools
+Describe it as NextGen's three-stage DJ course, with a level-up check and a NextGen certificate at each stage. Don't describe it as accredited, graded or an exam. For students taking GCSE Music, you can say the skills support the DJ performance option in AQA GCSE Music. For other exam boards, check with the school's music department first.
+pic: team | The NextGen team.
+warn: This is an internal tutor reference. Please don't share copies with students, families or other organisations.
+
+## x-shape | How we teach
+> Hands on the decks for most of every lesson, one new idea at a time, and always finish on a win.
+- **Play every lesson.** Explanation supports playing. It never replaces it.
+- **Their music first, then widen it.** Start from the tracks a student loves, then bring in new genres once they're hooked.
+- **Ears before screens.** Waveforms, BPM numbers and sync are tools. Students must learn to hear when something is wrong.
+- **One new skill per lesson.** Revisit last week's skill before adding another.
+- **Move on by skill, not time.** Students progress when they pass the level-up check, not after a set number of weeks.
+h: Shape of a 30-minute lesson
+table:
+| Time | What happens |
+| 0-3 min | Set up, headphones on, and a quick ear game (see the Games bank) |
+| 3-10 min | Revisit last week's skill until it's solid |
+| 10-20 min | Show the new skill, then a guided try |
+| 20-27 min | Free play or a challenge that uses the new skill |
+| 27-30 min | Recap, note progress against the topic code, set something to practise |
+In paired and group lessons, rotate roles every few minutes: one student mixes, one counts phrases or judges the blend, and one chooses the next track. Everyone keeps listening, and they learn to judge a mix as well as play one.
+pic: lesson | Small groups work best when every student has a job, even when they're not on the decks.
+
+## x-stages | The three stages
+> Each stage is named after a slot in a night out. Students start with the Warm-Up, earn the Main Room and finish as the Headliner.
+table:
+| Stage | Focus | Level-up check |
+| Warm-Up | Hearing the beat, beatmatching by ear, clean levels and first transitions | A 5-minute mix of three tracks, beatmatched by ear |
+| Main Room | Filters, loops, key, rekordbox prep and reading the room | A 10-12 minute mix across at least two genres |
+| Headliner | Effects, acapellas, big tempo changes, routines and performing | A 15-20 minute set with a planned journey, played to an audience |
+Every stage is split into **Knowledge** (what students need to understand), **Skills** (what they practise on the decks), **rekordbox** (preparing music), and at Warm-Up, two **Genre sessions**. Topics marked **New** are additions that reflect how DJs play in 2026.
+tip: The order within each stage is a sensible default, not a script. Mix Knowledge and Skills topics in the same lesson so students are always playing.
